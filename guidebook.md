@@ -794,6 +794,8 @@ Mare, Yokai, Onryo, Thaye and Demon can hunt above 50%.
 
 * Demon hunts at 70% naturally and has a chance to hunt at 100%.
 
+Moroi can seem like its hunting early because it drains sanity so fast. 
+
 **Won't Hunt**
 
 Shade, Mare, Deogen, Thaye
