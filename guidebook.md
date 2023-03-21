@@ -37,7 +37,7 @@ Items that count towards photo evidence:
 ---
 
 
-# Generic Traits
+# Generic Ghosts
 
 *Visibility:*
 *Sanity:*
@@ -53,6 +53,17 @@ Items that count towards photo evidence:
 *Equipment:*
 *Trait:*
 *Behaviour:*
+
+## Abilities
+
+
+## Activity
+
+
+
+## Hunt Behavior
+
+
 
 Most of its general behaviour (such as movement speed, hunting patterns, activity etc.) is based on the type of ghost, except for its willingness to respond to the spirit box in the presence of multiple people in the room, which is randomly set. 
 
@@ -80,9 +91,11 @@ The ghost's vision is 360 degrees.
 There is no maximum distance at which the ghost can see the player.
 Most physical objects or structures, excluding throwables or certain types of furniture that are thin or small, will block LoS. For example, this includes glass windows and doors, and cell walls and doors in Prison.
 
-    During a hunt, ghosts can hear players up to 9 metres away and on the same floor.
-    Whether the ghost can hear the player is dictated by their voice chat settings. When voice chat is activated, any sound above a certain volume, whether from the player talking or background noise, will attract the ghost within the specified distance.
-    Using global chat within 9 metres of the ghost, even without talking, will attract it to the player using it. This does not attract the ghost to other players; players outside the investigation area using global chat will not cause players inside to die.
+During a hunt, ghosts can hear players up to 9 metres away and on the same floor.
+
+Whether the ghost can hear the player is dictated by their voice chat settings. When voice chat is activated, any sound above a certain volume, whether from the player talking or background noise, will attract the ghost within the specified distance.
+
+Using global chat within 9 metres of the ghost, even without talking, will attract it to the player using it. This does not attract the ghost to other players; players outside the investigation area using global chat will not cause players inside to die.
 		
 		
 For comparison, the normal electronic interference range is 10 metres.
