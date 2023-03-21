@@ -32,6 +32,8 @@ Items that count towards photo evidence:
 # Investigation Steps
 
 
+
+
 ---
 
 
@@ -254,38 +256,78 @@ Taken correctly, one can obtain rewardable ghost photos during a hunt while the 
 
 ---
 
-
 # Unique Traits
+
 ## Banshee
-* *(V) Trait:* Will target a single player, ignoring all other players. If target is outside building/investigation area, will hunt normally (i.e. can chase and kill other players)
+🔮 Ghost Orb | ✋ Fingerprints | 👻 D.O.T.S
 
-* *Sound:* Chance of emitting a shriek-like sound via Parabolic Microphone (33% to replace a whisper)
+### Unique Identifiers
 
-* *(V) Test:* During a hunt, have all players hidden inside the building, then let one player attempt to bait the ghost through line-of-sight (LoS) (e.g., by looping); if the ghost ignores the player, then it is a Banshee. If the player is chased, repeat with another player.
+* At the start of the game, the Banshee will randomly select a single player as the hunt target. 
 
-* *Sound:* More likely to perform singing ghost events
+* When the ghost performs a roam, if the target is inside the investigation area, it has a 2/3 (67%) chance of roaming to the target. This differs from the Phantom's ability in that it occurs more frequently and is tied to roaming. This does not occur during hunts.
 
-* *Range:* Can roam/teleport to the target, leaving a sudden low EMF reading with no clear source. 
+* The Banshee checks for their target's sanity when trying to initiate a hunt, instead of the team's average sanity. Like most other ghosts, its hunt sanity threshold is 50%. This means that the Banshee can appear to hunt from as early as 87.5% average sanity, or as low as 12.5% average sanity, depending on the target's sanity and number of other players. If the hunt target is outside the investigation area, the Banshee will still use the target's sanity to decide whether to hunt. 
 
-* *Sanity:* Hunts based solely on target's sanity (even if outside); no hunts despite low average sanity but with one high-sanity player may indicate them as target, and vice versa.
+### Possible Identifiers
 
+* When a Parabolic Microphone is used, the Banshee has a 33% chance of making a unique shriek-like [paranormal sound](https://static.wikia.nocookie.net/phasmophobia/images/c/cc/NEW-Banshee-Scream.ogg/revision/latest?cb=20220214161628) instead of a whisper or footstep.
+
+* More likely to perform singing ghost events.
+
+    * If the banshee performs a singing event targeted at the Banshee's target and the target causes the banshee to disappear prematurely by going near it, then the banshee will decrease the target's sanity by 15% instead of the usual 10%. 
+
+    * Like other ghosts, who the Banshee targets for a ghost event is random and based on distance. Being the hunt target by itself does not increase their chance of being the ghost event target.
+
+### Hunt Behaviour
+
+* When a Banshee hunts it will ignore all players other than its hunt target, so long as the hunt target is in the investigation area. It will not attempt to chase other players nor will it kill them, even if it comes into direct contact with a non-target player, instead passing through them. The Banshee will react to Smudge Sticks lit by other players, but this will not allow for completion of the "Repel a ghost while it is chasing someone" optional objective unless the Banshee is also chasing its target when this occurs.
+
+* If the Banshee's hunt target is outside the investigation areas during a hunt, it will hunt like any other ghost, chasing any opportune player. 
+
+### Strategies
+
+* During a hunt, have all players hidden inside the building, then let one player attempt to bait the ghost through line-of-sight (LoS) (e.g., by looping); if the ghost ignores the player, then it is a Banshee. If the player is chased, repeat with another player.
+
+* If the ghost hunts above the average sanity of 50%, and one or more players are below 50% sanity, then one of them is the target. Likewise, if the ghost refrains from hunting at below 50% average sanity, but one player has high sanity, they can be presumed to be the Banshee's target.
+
+* Having players act as "bait" with smudge sticks and/or escape routes ready can definitively identify the target. Bait players should stand in plain sight and attempt to actively attract the ghost, such as talking into the microphone or holding active electronics; if the ghost ignores them, have another player repeat the process then proceed by elimination until the target is found. Alternatively, multiple players can do this at a time, standing separate from each-other and seeing which of them the Banshee rushes for. This method, though more risky, is useful either when the sanity-based method proves inconclusive, or when playing on Nightmare difficulty where the Sanity Monitor is not available. Ensure that all players are inside the building when performing this test.
+
+* On singleplayer, determining the Banshee by its target ability is impossible, so one must rely on other potential signs or pieces of evidence. The Parabolic Microphone might come it handy, however the Banshee only has a chance of producing its shriek, so it mustn't be ruled out simply because only whispers were recorded so far. Start looking for a ghost that does a lot of singing events first.
 
 ## Demon	
-* *(V) Hunt:* Hunt cooldown of 20 seconds, instead of standard 25 seconds (excluding hunts caused by cursed possessions)
 
-* *Sanity:* Demons can hunt at 70% sanity and have a chance to hunt at any sanity level (usually rarer than sanity-based hunts).
+🌡️ Freezing | ✋ Fingerprints | 🖊️ Writing
 
-* *Smudge:* Smudging prevents regular hunts for next 60 seconds, instead of standard 90 seconds. Hunting only after 90 seconds does not necessarily eliminate Demon
+### Unique Identifiers
 
-* *Crucifix:* Effective crucifix range of 5 meters, instead of standard 3 meters
+* The Demon has a hunt sanity threshold of 70%, instead of the standard 50%. This does not affect and is independent from its hunt ability, although the hunt does not differ in any way.
 
-  * Having a lazily placed crucifix burn when the ghost would normally not have used it may indicate a Demon, though ghosts could happen to wander away from their room into the crucifix's range
+* The Demon has an ability that allows it to start a hunt regardless of current average sanity. Crucifixes can block this hunt like any other non-cursed hunt.
 
-  * A crucifix being used while still on the van wall on 42 Edgefield Road is almost certainly a Demon (usually in the garage)
+* Demons have a minimum cooldown of 20 seconds between hunts, instead of the usual 25 seconds.
+
+* Smudging a Demon will prevent hunts for only 60 seconds, as opposed to the standard 90 seconds.
+
+* The Demon has an interaction range of 5 metres instead of 3.
+
+* The effective range of a crucifix is 5 meters instead of the standard 3 meters.
+
+### Strategies
+
+* Having a lazily placed crucifix burn when the ghost would normally not have used it may indicate a Demon, though ghosts could happen to wander away from their room into the crucifix's range
+
+* A crucifix being used while still on the van wall on 42 Edgefield Road is almost certainly a Demon (usually in the garage)
+
+* A cooldown of less than 25 seconds (excluding hunts caused by cursed possessions) may indicate a Demon.
+
+* A ghost hunting between 60 - 90 seconds after being smudged correctly may indicate a Demon.
+
+    * Note that ghosts do not necessarily hunt after the cooldown is over; having hunts consistently being more than 25 seconds apart do not necessarily eliminate the Demon as a possibility.
 
 ## Deogen
 
-D.O.T.S Projector, Ghost Writing, Spirit Box
+🔊 Spirit Box | 🖊️ Writing | 👻 D.O.T.S
 
 ### Unique Identifiers
 
@@ -296,114 +338,168 @@ D.O.T.S Projector, Ghost Writing, Spirit Box
 * When the Deogen is chasing a player, Deogen will move very fast when far away from the player (3 m/s when more than 6 meters away), and then incredibly slowly when it gets close to the player (0.4 m/s when closer than 2.5 meters). 
 
 ### Possible Identifiers
+
 * The Deogen is more likely to interact with the D.O.T.S Projector and Ghost Writing Book, and on average will write in a book earlier than other ghosts, and show up more often as a silhouette on the D.O.T.S Projector.
 
-* If the player asks any question through the Spirit Box while standing within 1 meter of the Deogen, it has a 33% chance with each question to produce a unique response of constant heavy bull-like breathing, instead of a regular response.
+* When using the spirit box when the Deogen is very close by, it has a 33% chance with each question to produce a unique response of constant heavy [bull-like breathing](https://youtu.be/Zm2w4X-TU2c).
 
-* During a hunt, the Deogen always has line-of-sight with all players on the map; in other words, it does not use the "roaming" mechanic. When the hunt begins, the Deogen will pick the nearest player (by straight-line distance) to move towards. It will occasionally "refresh" and repick the nearest target throughout the hunt. One can also use a Smudge Stick to stun the Deogen temporarily and force it to pick the nearest target when the smudge effect runs out.
+### Hunt Behaviour
 
-* If the Deogen is smudged or is otherwise not chasing any player, its speed will remain at its current speed. Otherwise, the Deogen does not alter its speed based on line-of-sight while chasing a player.
+* The Deogen can see all the players on the map at all times during hunt. 
+
+* When the hunt begins, the Deogen will pick the nearest player (by straight-line distance) to move towards. It will occasionally "refresh" and repick the nearest target throughout the hunt. 
+    
+* Using a Smudge Stick will stun the Deogen temporarily and force it to pick the nearest target when the smudge effect runs out. Its speed will remain at its current speed when smudged.
 
 * The Deogen flashes invisible for shorter than the standard 0.3 to 1 second range during a hunt, meaning it will be visible for longer than a usual ghost.
 
+### Strategies
+
+* The most straightforward form of identification is for the ghost to hunt. If it approaches the nearest player at high speeds and slows down drastically as it approaches, then it is a Deogen. 
+
+    * Note that a "young" Thaye, a Revenant that has detected someone, and a Hantu when the power has been out for a while and room temperatures are at their lowest, may move at similar speeds, but without slowing down drastically (if at all); mistaking them for a Deogen can be deadly. 
+
+* A non-hunt way would be to constantly track the ghost and look for the signature heavy breathing through the spirit box, though this will be more tedious.
+
 ## Goryo
 
-D.O.T.S Projector, EMF Level 5, Fingerprints
+💡 EMF 5 | ✋ Fingerprints | 👻 D.O.T.S
 
 ### Unique Identifiers
 
-* Goryo will always give 👻DOTS.
+* Goryo will always give 👻 D.O.T.S.
 
-* Goryo will only produce DOTS on the video camera but not in person unless the player is very close. If you stand outside the ghost room with a video camera and see DOTS in the camera but not in the ghost room then its a Goryo. 
+* A Goryo will only interact with a D.O.T.S Projector if no players are in the same room as the ghost. 
 
-	* This behaviour does not apply to physical manifestations during a ghost event or a hunt.
+* A Goryo D.O.T.S silhouette is only visible through a Video Camera, and cannot be seen with the naked eye. It will still manifest normally during ghost events and hunts.
 
-* The Goryo will never change its favorite room, even when the difficulty allows for it. Ghost changing rooms rules out Goryo. 
+* The Goryo will never change its favorite room, even when the difficulty allows for it.
 
-### Possible Identifiers
+* When performing a roam, the maximum distance that a Goryo can roam in one go is 5 metres, instead of the standard maximum of 10 metres. 
+
+### Strategies
+
+* It is necessary to have a Video Camera either placed facing an active D.O.T.S. Projector, or held by a player outside the ghost's room. If D.O.T.S. evidence is visible in the camera's screen, but invisible in direct view, the ghost is likely to be a Goryo. Conversely, if D.O.T.S. is seen without the aid of a video camera, a Goryo can be safely ruled out.
 
 * The Goryo is less likely to wander far distances. If ghost activity seems relatively confined to its room and the immediate vicinity (excluding ghost events and hunts), then it could be a Goryo.
 
 ## Hantu
 
-
+🔮 Ghost Orb | 🌡️ Freezing | ✋ Fingerprints
 
 ### Unique Identifiers
 
-* Will always give 🌡️Freezing.
+* Hantu will always give 🌡️Freezing.
 
 * Hantu moves faster in colder temperatures. 
 
     * Hantu will move faster if the breaker is off than when its on, faster in outdoor maps when its snowing than inside, and faster in the ghost room than the rest of the house when the breaker is on.
 
-    * Temperature effect can cause what seem like inconsistent movement speeds. If hunt starts with ghost in the ghost room, and you hear the ghost moving very fast at the start then slow down, this could indicate a Hantu.
-
-    * **Test:** Keep the fuse box turned on, and listen for its footsteps during a hunt; if it is very fast in its ghost room but slower outside (where temperatures are warmer), then it is probably a Hantu. Alternatively, turn the fuse box off, then listen out for its footsteps over several hunts.
-
-* The Hantu will never turn on the fuse box. A ghost doing so eliminates the possibility of it being a Hantu.
-
-* The Hantu will emit freezing breath when its ghost model is visible during a hunt as long as the fuse box is turned off.
-
-    * This ability is nearly impossible to detect. 
-
+* The Hantu will never turn on the fuse box. 
 
 ### Possible Identifiers
-* The Hantu does not accelerate with LoS; if the ghost maintains a constant speed similar to the player while looping around a piece of furniture in a warm room, then it could be a Hantu.
 
 * The Hantu is twice as likely to turn off the fuse box relative to other ghosts.
 
+### Hunt Behaviour
+
+* The Hantu does not have line-of-sight acceleration during hunts. 
+
+* When the Hantu's ghost model is visible during a hunt, it will emit freezing breath near its head in any room as long as the breaker is off. However, this ability can be very difficult to detect and other effects can be mistaken for it so should not be relied on. Dead players cannot see this breath.
+
+### Identification Strategies
+
+* If a Hantu is suspected, leaving the breaker on will generally be a safer strategy and help with identification. Depending on the map and weather conditions this may not always be possible however. Particularly during Light Snow weather, especially on the outdoors maps of Maple Lodge Campsite and Camp Woodwind, as ambient room temperatures will generally be lower if the fuse box is off, boosting their speed during a hunt.
+
+* Leave the breaker turned on for a while, then listen for its speed during a hunt. Hantus will be faster in colder rooms (usually, but not always the favourite room), and slower than a normal ghost in a warm room. If the ghost appears to be fast at the start of a hunt and slows down as it gets closer to the player, this may be evidence of a Hantu.
+
+* If ghost maintains a constant speed similar to the player while looping around a piece of furniture in a warm room, then it could be a Hantu. 
+
+    * Ensure that the fuse box has been on for a while before performing this test, however, as Hantu will still recieve a speed bonus for ambient cold tempuratures.
+
+    * The Hantu's presence in that room will cool the room down over time, making it increasingly harder to loop. Carry smudge sticks and plan an exit strategy before performing the test. 
+
+### False Positives
+
+The Hantu is one of two ghosts (the other being the Onryo) for which you can collect all three pieces of evidence without excluding The Mimic. Therefore, before concluding you're dealing with a Hantu, check whether the Spirit Box gives audio. If it does, you have The Mimic.
+
+A Raiju will be fast near active electronics and a normal speed outside a specified range, which may cause it appear to behave like a Hantu when hunting. If this is a no-evidence game, try removing all electronics first. If at least one piece of evidence is provided, then having Freezing Temperatures as a piece of evidence will eliminate Raiju.
+
+The Moroi can also speed up over several hunts, but as a result of gradually lowering average sanity instead. Ensure that all players maintain their sanities at a constant level.
+
 ## Jinn	
-* **Required Sanity:** Standard
 
-* **Speed:** Will move significantly faster during a hunt when it sees the player while the fuse box is on. 
+💡 EMF 5 | 🌡️ Freezing | ✋ Fingerprints
 
+### Abilities
 
-### Unique Identifiers
-* The Jinn will dramatically speed up when it sees the player during a hunt when the breaker is on. 
+* The Jinn has an ability to instantly decrease the sanity of all players in the same room or otherwise within 3 metres by 25%. This will give an EMF reading at the fuse box. It can only use this ability if the fuse box is turned on. 
 
-    * If the breaker is on during a hunt and player is in LoS of the Jinn, it will chase the player at a higher fixed speed (2.5 m/s) until they are within 3 meters of the player, thereafter chasing with the standard ghost speed. 
+### Activity
 
-    * This can be tested by standing at the end of a long hallway or room, then waiting for the ghost to achieve LoS from the other end. If its speed increases instantly and not over a period of time, then it is likely a Jinn. 
+* The Jinn cannot turn off a breaker directly through interacting with it.
 
-    * Be careful not to confuse this with the Revenant; the Jinn's speed is normal if it is not chasing a player, unlike the Revenant.
+### Hunt Behaviour
 
-* The Jinn has an ability to instantly decrease the sanity of all players in the same room or otherwise within 3 metres by 25%. This will give an EMF reading at the fuse box. 
+* If a Jinn initiates a hunt while the breaker is on, it will speed up to 2.5 m/s until it gets to within 3 meters of the player. If the Jinn gets within 3 meters of the player, doesn't see the player, or if the breaker is off, the Jinn will move at standard ghost speeds. 
 
-    * **Test:** Leave an EMF reader by the fuse box; if it rings but the fuse box did not turn on/off, then it is likely the Jinn using its ability.
+### Identification Strategies
 
-* The Jinn will never turn off the fuse box. 
+* If a Jinn is suspected, leave an EMF reader by the fuse box. If it emits a tone without the fuse box turning on/off, then it is likely the Jinn using its ability. The player may want to visually confirm it wasn't set off by another interaction, such as an object being thrown near the reader. 
 
-    * A ghost doing so eliminates the possibility of it being a Jinn. Note that the fuse box can still trip by being overloaded with lights.
+* The Jinn's LoS speed ability can be tested by standing at the end of a long hallway or room, then waiting for the ghost to achieve LoS from the other end. If its speed increases instantly and not over a period of time, then it is likely a Jinn. The fuse box must be on for this test to work. 
 
-### Possible Identifiers
+### False Positives
+
+* The Jinn's increased speed when it has LoS on a player can be confused careful with the Revenant. The Jinn's speed is normal if it is not chasing a player, while the Revenant will move noticably slow.
+
 * The fuse box remaining turned on throughout the investigation may indicate a Jinn, though this cannot be used as definite proof.
 
-* Jinn is not affected by items or electronic devices. This is misconception about the Jinn's abilities. Jinns do not have a higher chance of interacting with electronics; they interact with items in the same way as other ghosts. 
+* Jinn cannot turn off the fuse box, but can still interact with light switches. Since turning on switches can cause the fuse box to shut off, this could lead players to conclude the ghost hit the breaker. If turning the fuse box back on does not cause the lights to come back on as before, then it was not shut off by a ghost and Jinn cannot be ruled out.
 
+* Jinn is not affected by electronic devices and are not more likely to interact with them. This is misconception about the Jinn's abilities. Whether there are lights turned on or not also does not affect the Jinn's abilities.
 
 ## Mare	
-### Ghost Hunt Conditions
-* **Required Sanity:** 60% in the dark; 40% in lit area
 
-* **Speed:** Standard
+🔮 Ghost Orb | 🔊 Spirit Box | 🖊️ Writing
 
-### Unique Identifiers
-* The Mare will never turn on individual light switches, computer monitors, or TVs. 
+### Abilities
 
-    * Mares do not have any special behaviour regarding fuse boxes, and can turn them on or off. Mares do not turn the fuse box off more frequently than any other ghost.
 
-### Possible Identifiers
-* The Mare has a hunt sanity threshold of 60% if the lights in its room are off, and 40% if they are turned on.
 
-* Mares have a chance of turning the lights off immediately if a player turns one on in the vicinity. 
+* Mares have a chance of turning off a light source immediately if a player turns one on in the vicinity. 
 
-    * Spamming the light switch will not trigger this interaction, so this is best utilised with some time between switching the lights on/off. This interaction will give off an EMF 2 reading. Note that any ghost can do so purely by coincidence. Ghost events do not count for this ability.
+### Activity
+
+* Mares cannot turn on individual light switches, computer monitors, or TVs. and they are more likely to choose turning off lights as an interaction. 
 
 * The Mare will have decreased interaction activity if its current room is lit.
 
-* The Mare is more likely to perform light-shattering ghost events.
+* The Mare is more likely to perform light-shattering ghost events. Whether the lights are turned on or off do not affect the Mare's chance of performing this event. Where possible, avoid staying in rooms where you want the lights turned on, so that the Mare is less likely to shatter them.
 
 * The Mare will prefer roaming into a dark room rather than lit rooms. If you have lights on in various rooms and the ghost roams away frequently, then it could be a Mare.
+
+### Hunt Behaviour
+
+* The Mare has a hunt sanity threshold of 60% if the lights in its room are off, and 40% if they are turned on. This applies even if the fuse box is turned off or broken.
+
+### Identification Strategies
+
+* The Mare is generally one of the more difficult ghosts to identify based on behaviour. The Mare's hunt threshold in light/dark rooms is one indicator, but this can be difficult to measure and unreliable. A preference for light-shattering ghost events is another indicator, but multiple instances of this event is not conclusive evidence of a Mare. 
+
+* The Mare will prefer moving into dark rooms rather than lit rooms when roaming, so tracking the Mare's movements may be one method of identification. Setting up motion sensors near the ghost room and turning various lights on an off while checking occasionally to see if it changed rooms may help provide secondary evidence. 
+
+* Turning lights off in areas near the ghost room and then setting up video cameras to see if the ghost is turning lights on anywhere in the investigation area may help in ruling out a Mare. The lack of these interactions isn't conclusive proof the ghost is a Mare, but can be strong evidence. Be cautious, however, since if it is a Mare, and the lights are left off in most of the house, then the sanity threshold for a hunt will be higher.
+
+* Attempting to trigger the Mare's ability to turn a light back off the moment a player turns it on may be one conclusive method. Pausing a few seconds between turning the lights on will help with accurately identifying this ability. 
+
+### False Positives
+
+* Mares do not have any special behaviour regarding fuse boxes, and can turn them on or off. Mares do not turn the fuse box off more frequently than any other ghost.
+
+* A ghost turning on the light directly eliminates the possibility of it being a Mare. On the other hand, any ghost may choose to never turn on a light throughout the entire game, so this negative should not be used to confirm the ghost type. In fact, any ghost may turn off a light immediately after you turn it on purely by chance. Ghost events do not count for this (Mare) ability.
+
+* Spamming the light switch will not trigger this interaction, so this is best utilised with some time between switching the lights on/off. This interaction will give off an EMF 2 reading. Note that any ghost can do so purely by coincidence. Ghost events do not count for this ability.
 
 ## Mimic	
 
@@ -422,35 +518,37 @@ Fingerprints, Freezing Temperatures, Spirit Box
 
 ## Moroi
 
-### Evidence
-
-Moroi will give Ghost Writing, Freezing Temperatures, and Spirit Box.
+🔊 Spirit Box | 🌡️ Freezing | 🖊️ Writing
 
 *Forced evidence:* 🔊Spirit Box.
 
 ### Abilities
 
-The Moroi can curse a target when players hear them through the Spirit Box or Parabolic Microphone. 
+The Moroi can curse a target when players hear them through the Spirit Box or Parabolic Microphone. When a player is cursed, their sanity drain doubles, and cannot be stopped by lights. The curse is paused temporarily when players are outside the investigation area, and Sanity Pills remove the curse for a player. Multiple players can be cursed at the same time, but they do not stack on a single player.
 
-When a player is cursed, their sanity drain doubles, and cannot be stopped by lights. The curse is paused temporarily when players are outside the investigation area, and Sanity Pills remove the curse for a player. After a player receives a spirit box response, keep track of the sanity of all players; if one person's sanity drops noticeably quicker than others, then it is likely a Moroi.
+### Hunt Behaviour
 
-### Tells
+* The Moroi's speed is dependent on the average sanity. It will speed up from 1.5 m/s % at 50% sanity to 2.25 m/s at 5% or below. The speed changes during a hunt according to the current average sanity. 
 
-On Nightmare difficulty, after receiving a spirit box response, the questioner should immediately return to the van and consume sanity pills to reach maximum sanity, hold a lit candle going back in, then receive another response from the spirit box, wait about 30 seconds, then finally return to the van again and attempt to eat another sanity pill. If the player can eat a sanity pill (barring any ghost events or other abilities), then it is probably a Moroi. Some ghosts such as the Yurei or Jinn can drop the sanity of nearby players; try to eliminate this as a possibility.
+* Unlike most other ghosts with implicit speed bonuses, the Moroi accelerates with continuous line-of-sight of a player. Below 5% average sanity, the maximum speed of a Moroi is 3.71 m/s, faster than the Revenant's 3 m/s.
 
-### Speed
+* Moroi cannot see nor kill players for 12 seconds when smudged during a hunt, twice as long as the usual 6 seconds.
 
-The Moroi becomes faster as the average sanity becomes lower. If the ghost speeds up over several hunts, then it could be a Moroi. Note that the Hantu can speed up if the fuse box is off over several hunts, so ensure that the fuse box remains turned on.
+### Identification Strategies
 
-### Smudge
+* After a player receives a spirit box response, keep track of the sanity of all players; if one person's sanity drops noticeably quicker than others, then it is likely a Moroi.
 
-Moroi cannot see nor kill players is at 12 seconds when smudged during a hunt, twice as long as the usual 6 seconds.
+* The Moroi becomes faster as the average sanity becomes lower. If the ghost speeds up over several hunts, then it could be a Moroi. Note that the Hantu can speed up if the fuse box is off over several hunts, so ensure that the fuse box remains turned on.
+
+* On Nightmare difficulty, after receiving a spirit box response, the questioner should immediately return to the van and consume sanity pills to reach maximum sanity, hold a lit candle going back in, then receive another response from the spirit box, wait about 30 seconds, then finally return to the van again and attempt to eat another sanity pill. If the player can eat a sanity pill (barring any ghost events or other abilities), then it is probably a Moroi. Some ghosts such as the Yurei or Jinn can drop the sanity of nearby players; try to eliminate this as a possibility.
+
+If you notice the ghost moving fast while hunting, and you use pills while it's hunting and notice the ghost's speed suddenly drop, this could be evidence for a Moroi. 
 
 ### False Positives
 
-Because Moroi's speed increases as the player's sanity goes down, it can sometimes be mistaken for other fast moving ghosts such as a Thaye. If you notice the ghost moving fast while hunting, and you use pills while it's hunting and notice the ghost's speed suddenly drop, this could be evidence for a Moroi. 
+* Because Moroi's speed increases as the player's sanity goes down, it can sometimes be mistaken for other fast moving ghosts such as a Thaye or Revenant.
 
-Likewise, because Moroi can damage the player's sanity very fast if it uses its curse ability, it can easily be mistaken for an early hunter despite only being able to hunt at 50%. 
+* Because Moroi can damage the player's sanity very fast if it uses its curse ability, it can easily be mistaken for an early hunter despite only being able to hunt at 50%. 
 
 # Myling	
 
@@ -752,7 +850,7 @@ Poltergeists are more likely to throw objects, and have a 100% chance of interac
 
 # Evidence
 
-| Ghost | 💡EMF 5 | 🔮Ghost Orb | 🔊Spirit Box | 🌡️Freezing | ✋Fingerprints |  🖊️Writing | 👻DOTS |
+| Ghost | 💡 EMF 5 | 🔮 Ghost Orb | 🔊 Spirit Box | 🌡️ Freezing | ✋ Fingerprints | 🖊️ Writing | 👻 D.O.T.S |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Banshee	| | 🔮 | | | ✋ | | 👻 |
 | Demon	| | | | 🌡️ | ✋ | 🖊️ | |
@@ -840,6 +938,24 @@ Goryo's evidence can be hard to get. Lack of clear evidence or distinct abilitie
 
 **Doesn't speed up in LoS**
 Thaye, Hantu
+
+Ghost is staying very close to ghost room.
+
+Ghost is going very far from ghost room.
+
+Ghost is frequently changing rooms. 
+
+Standing still during ghost events. 
+
+Taking a form frequently during ghost event.
+
+Turning lights on frequently.
+
+Turning lights off frequently.
+
+Hitting the fuse box often.
+
+
 
 
 ---
