@@ -22,6 +22,7 @@
 
 * Ghosts lower the temperature of the room they are occupying to a certain point. Ghosts with Freezing Temperatures as evidence cool the room to −12°C to −6°C (12°F to 18°F); those without freezing temperatures cool the room to different temperatures depending on the weather.
 
+
 ## Interactions
 
 * Ghost events and hunts do not count as interactions, but ghosts can interact with the environment during both.
@@ -42,6 +43,7 @@
 
 * Interactions occur at a varying rate of approximately 1 - 3 per minute, which may depend on the ghost type. Interactions can help to pinpoint the ghost's current location, but not necessarily its current room or favourite room since ghosts can interact through walls.
 
+
 ## Ghost events
 
 * When a player is within 10 meters of the ghost in the investigation area, the ghost may randomly trigger a ghost event that creates an EMF 4 reading.
@@ -49,6 +51,7 @@
 * Certain activities, such as those during a hunt, dimming of lights, and candle burnouts, are not considered ghost events.
 
 * Ghost events can be triggered by drawing The Devil card from a deck of Tarot Cards.
+
 
 ## Sanity
 
@@ -94,7 +97,8 @@
 * Footsteps, door, closet, and locker noises, electronics on the floor or turned off, crucifixes, lit smudge sticks, candles and glowsticks (even when lit), and players outside the investigation area do not attract the ghost.
 
 * All ghosts have a 50% chance (100% chance for Poltergeist) of throwing one object near it every 0.5 seconds during hunts.
-Ghosts cannot write in Ghost Writing Book during hunts but can throw it.
+
+* Ghosts cannot write in Ghost Writing Book during hunts but can throw it.
 
 * Ghosts can interact with all types of doors, except exit doors and other types of furniture doors. If a ghost with the Fingerprints evidence interacts with a door, it will leave fingerprints accordingly.
 
