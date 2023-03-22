@@ -53,6 +53,47 @@
 
 ---
 
+
+
+## Spirit Box
+
+Spirit Box evidence can be obtained by asking the ghost questions while using the equipment.
+
+To use the Spirit Box, the player must be in the same room as the ghost or within 3 meters of it if not in the same room.
+
+All ambient lighting in the room must be off for the Spirit Box to work, but adjacent rooms do not need their lights disabled.
+Ghosts who only respond to "people who are alone" will only respond if there is only one player in the room.
+
+If the above conditions are met, the ghost will have a chance to respond.
+
+Ghosts in the game "Phasmaphobia" can be identified by their behavior and characteristics.
+
+The Spirit Box is a piece of electronic equipment used to communicate with ghosts.
+
+The Spirit Box will return one of two results: a ghost icon and a corresponding voice response if all conditions are met or an 'X' icon if one or more conditions are not met.
+
+The Spirit Box will work anywhere on the map, but for a successful response, the player must be in the investigation area and meet certain conditions.
+
+To get a successful Spirit Box response from the ghost, the ghost must have Spirit Box as one of its evidences, the player must be in the investigation area, within 3 meters of the ghost, and the lights in the player's current room must be off.
+
+Ghosts that respond only to "people who are alone" will only respond if there is a single person in the room at the moment the question is asked.
+
+If all conditions are met, there is a 2/3 chance of the ghost responding per question asked.
+
+The Spirit Box is considered electronic equipment and may flicker if interfered with.
+
+Holding an active Spirit Box within 7.5 meters of a ghost on the same floor will attract the ghost to the player.
+
+The ghost touching a door or an object, performing a ghost event or a hunt, or repeatedly saying certain words is not evidence of Spirit Box.
+
+The ghost may still respond audibly if the player asks questions while the Spirit Box is being interfered with, but this is separate from the vocalizations that the ghost may produce during ghost events or hunts.
+
+
+
+===
+
+
+
 # Unique Traits
 
 ## Banshee
@@ -180,123 +221,11 @@
 
 * The Goryo is less likely to wander far distances. If ghost activity seems relatively confined to its room and the immediate vicinity (excluding ghost events and hunts), then it could be a Goryo.
 
-## Hantu
-
-🔮 Ghost Orb | 🌡️ Freezing | ✋ Fingerprints
-
-### Unique Identifiers
-
-* Hantu will always give 🌡️Freezing.
-
-* Hantu moves faster in colder temperatures. 
-
-    * Hantu will move faster if the breaker is off than when its on, faster in outdoor maps when its snowing than inside, and faster in the ghost room than the rest of the house when the breaker is on.
-
-* The Hantu will never turn on the fuse box. 
-
-### Possible Identifiers
-
-* The Hantu is twice as likely to turn off the fuse box relative to other ghosts.
-
-### Hunt Behaviour
-
-* The Hantu does not have line-of-sight acceleration during hunts. 
-
-* When the Hantu's ghost model is visible during a hunt, it will emit freezing breath near its head in any room as long as the breaker is off. However, this ability can be very difficult to detect and other effects can be mistaken for it so should not be relied on. Dead players cannot see this breath.
-
-### Identification Strategies
-
-* If a Hantu is suspected, leaving the breaker on will generally be a safer strategy and help with identification. Depending on the map and weather conditions this may not always be possible however. Particularly during Light Snow weather, especially on the outdoors maps of Maple Lodge Campsite and Camp Woodwind, as ambient room temperatures will generally be lower if the fuse box is off, boosting their speed during a hunt.
-
-* Leave the breaker turned on for a while, then listen for its speed during a hunt. Hantus will be faster in colder rooms (usually, but not always the favourite room), and slower than a normal ghost in a warm room. If the ghost appears to be fast at the start of a hunt and slows down as it gets closer to the player, this may be evidence of a Hantu.
-
-* If ghost maintains a constant speed similar to the player while looping around a piece of furniture in a warm room, then it could be a Hantu. 
-
-    * Ensure that the fuse box has been on for a while before performing this test, however, as Hantu will still recieve a speed bonus for ambient cold tempuratures.
-
-    * The Hantu's presence in that room will cool the room down over time, making it increasingly harder to loop. Carry smudge sticks and plan an exit strategy before performing the test. 
-
-### False Positives
-
-The Hantu is one of two ghosts (the other being the Onryo) for which you can collect all three pieces of evidence without excluding The Mimic. Therefore, before concluding you're dealing with a Hantu, check whether the Spirit Box gives audio. If it does, you have The Mimic.
-
-A Raiju will be fast near active electronics and a normal speed outside a specified range, which may cause it appear to behave like a Hantu when hunting. If this is a no-evidence game, try removing all electronics first. If at least one piece of evidence is provided, then having Freezing Temperatures as a piece of evidence will eliminate Raiju.
-
-The Moroi can also speed up over several hunts, but as a result of gradually lowering average sanity instead. Ensure that all players maintain their sanities at a constant level.
-
-## Jinn	
-
-💡 EMF 5 | 🌡️ Freezing | ✋ Fingerprints
-
-### Abilities
-
-* The Jinn has an ability to instantly decrease the sanity of all players in the same room or otherwise within 3 metres by 25%. This will give an EMF reading at the fuse box. It can only use this ability if the fuse box is turned on. 
-
-### Activity
-
-* The Jinn cannot turn off a breaker directly through interacting with it.
-
-### Hunt Behaviour
-
-* If a Jinn initiates a hunt while the breaker is on, it will speed up to 2.5 m/s until it gets to within 3 meters of the player. If the Jinn gets within 3 meters of the player, doesn't see the player, or if the breaker is off, the Jinn will move at standard ghost speeds. 
-
-### Identification Strategies
-
-* If a Jinn is suspected, leave an EMF reader by the fuse box. If it emits a tone without the fuse box turning on/off, then it is likely the Jinn using its ability. The player may want to visually confirm it wasn't set off by another interaction, such as an object being thrown near the reader. 
-
-* The Jinn's LoS speed ability can be tested by standing at the end of a long hallway or room, then waiting for the ghost to achieve LoS from the other end. If its speed increases instantly and not over a period of time, then it is likely a Jinn. The fuse box must be on for this test to work. 
-
-### False Positives
-
-* The Jinn's increased speed when it has LoS on a player can be confused careful with the Revenant. The Jinn's speed is normal if it is not chasing a player, while the Revenant will move noticably slow.
-
-* The fuse box remaining turned on throughout the investigation may indicate a Jinn, though this cannot be used as definite proof.
-
-* Jinn cannot turn off the fuse box, but can still interact with light switches. Since turning on switches can cause the fuse box to shut off, this could lead players to conclude the ghost hit the breaker. If turning the fuse box back on does not cause the lights to come back on as before, then it was not shut off by a ghost and Jinn cannot be ruled out.
-
-* Jinn is not affected by electronic devices and are not more likely to interact with them. This is misconception about the Jinn's abilities. Whether there are lights turned on or not also does not affect the Jinn's abilities.
-
-## Mare	
-
-🔮 Ghost Orb | 🔊 Spirit Box | 🖊️ Writing
-
-### Abilities
 
 
 
-* Mares have a chance of turning off a light source immediately if a player turns one on in the vicinity. 
 
-### Activity
 
-* Mares cannot turn on individual light switches, computer monitors, or TVs. and they are more likely to choose turning off lights as an interaction. 
-
-* The Mare will have decreased interaction activity if its current room is lit.
-
-* The Mare is more likely to perform light-shattering ghost events. Whether the lights are turned on or off do not affect the Mare's chance of performing this event. Where possible, avoid staying in rooms where you want the lights turned on, so that the Mare is less likely to shatter them.
-
-* The Mare will prefer roaming into a dark room rather than lit rooms. If you have lights on in various rooms and the ghost roams away frequently, then it could be a Mare.
-
-### Hunt Behaviour
-
-* The Mare has a hunt sanity threshold of 60% if the lights in its room are off, and 40% if they are turned on. This applies even if the fuse box is turned off or broken.
-
-### Identification Strategies
-
-* The Mare is generally one of the more difficult ghosts to identify based on behaviour. The Mare's hunt threshold in light/dark rooms is one indicator, but this can be difficult to measure and unreliable. A preference for light-shattering ghost events is another indicator, but multiple instances of this event is not conclusive evidence of a Mare. 
-
-* The Mare will prefer moving into dark rooms rather than lit rooms when roaming, so tracking the Mare's movements may be one method of identification. Setting up motion sensors near the ghost room and turning various lights on an off while checking occasionally to see if it changed rooms may help provide secondary evidence. 
-
-* Turning lights off in areas near the ghost room and then setting up video cameras to see if the ghost is turning lights on anywhere in the investigation area may help in ruling out a Mare. The lack of these interactions isn't conclusive proof the ghost is a Mare, but can be strong evidence. Be cautious, however, since if it is a Mare, and the lights are left off in most of the house, then the sanity threshold for a hunt will be higher.
-
-* Attempting to trigger the Mare's ability to turn a light back off the moment a player turns it on may be one conclusive method. Pausing a few seconds between turning the lights on will help with accurately identifying this ability. 
-
-### False Positives
-
-* Mares do not have any special behaviour regarding fuse boxes, and can turn them on or off. Mares do not turn the fuse box off more frequently than any other ghost.
-
-* A ghost turning on the light directly eliminates the possibility of it being a Mare. On the other hand, any ghost may choose to never turn on a light throughout the entire game, so this negative should not be used to confirm the ghost type. In fact, any ghost may turn off a light immediately after you turn it on purely by chance. Ghost events do not count for this (Mare) ability.
-
-* Spamming the light switch will not trigger this interaction, so this is best utilised with some time between switching the lights on/off. This interaction will give off an EMF 2 reading. Note that any ghost can do so purely by coincidence. Ghost events do not count for this ability.
 
 ## Mimic	
 
@@ -313,39 +242,7 @@ Fingerprints, Freezing Temperatures, Spirit Box
 
 * The Mimic will occasionally change the ghost it decides to impersonate during the mission. This might betray The Mimic if the player notices the ghost demonstrating two completely different traits (such as noticing the ghost flickering slower like a Phantom during a hunt, when it was not doing so earlier). Note that the Mimic cannot switch ghosts during a hunt.
 
-## Moroi
 
-🔊 Spirit Box | 🌡️ Freezing | 🖊️ Writing
-
-*Forced evidence:* 🔊Spirit Box.
-
-### Abilities
-
-The Moroi can curse a target when players hear them through the Spirit Box or Parabolic Microphone. When a player is cursed, their sanity drain doubles, and cannot be stopped by lights. The curse is paused temporarily when players are outside the investigation area, and Sanity Pills remove the curse for a player. Multiple players can be cursed at the same time, but they do not stack on a single player.
-
-### Hunt Behaviour
-
-* The Moroi's speed is dependent on the average sanity. It will speed up from 1.5 m/s % at 50% sanity to 2.25 m/s at 5% or below. The speed changes during a hunt according to the current average sanity. 
-
-* Unlike most other ghosts with implicit speed bonuses, the Moroi accelerates with continuous line-of-sight of a player. Below 5% average sanity, the maximum speed of a Moroi is 3.71 m/s, faster than the Revenant's 3 m/s.
-
-* Moroi cannot see nor kill players for 12 seconds when smudged during a hunt, twice as long as the usual 6 seconds.
-
-### Identification Strategies
-
-* After a player receives a spirit box response, keep track of the sanity of all players; if one person's sanity drops noticeably quicker than others, then it is likely a Moroi.
-
-* The Moroi becomes faster as the average sanity becomes lower. If the ghost speeds up over several hunts, then it could be a Moroi. Note that the Hantu can speed up if the fuse box is off over several hunts, so ensure that the fuse box remains turned on.
-
-* On Nightmare difficulty, after receiving a spirit box response, the questioner should immediately return to the van and consume sanity pills to reach maximum sanity, hold a lit candle going back in, then receive another response from the spirit box, wait about 30 seconds, then finally return to the van again and attempt to eat another sanity pill. If the player can eat a sanity pill (barring any ghost events or other abilities), then it is probably a Moroi. Some ghosts such as the Yurei or Jinn can drop the sanity of nearby players; try to eliminate this as a possibility.
-
-If you notice the ghost moving fast while hunting, and you use pills while it's hunting and notice the ghost's speed suddenly drop, this could be evidence for a Moroi. 
-
-### False Positives
-
-* Because Moroi's speed increases as the player's sanity goes down, it can sometimes be mistaken for other fast moving ghosts such as a Thaye or Revenant.
-
-* Because Moroi can damage the player's sanity very fast if it uses its curse ability, it can easily be mistaken for an early hunter despite only being able to hunt at 50%. 
 
 # Myling	
 
@@ -912,113 +809,11 @@ Taken correctly, one can obtain rewardable ghost photos during a hunt while the 
 
 ---
 
-# Evidence
 
-| Ghost | 💡 EMF 5 | 🔮 Ghost Orb | 🔊 Spirit Box | 🌡️ Freezing | ✋ Fingerprints | 🖊️ Writing | 👻 D.O.T.S |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Banshee	| | 🔮 | | | ✋ | | 👻 |
-| Demon	| | | | 🌡️ | ✋ | 🖊️ | |
-| Deogen	| | | 🔊 | | | 🖊️ | 👻 |
-| Goryo	| 💡 | | | | ✋ | | 👻 |
-| Hantu		| | 🔮 | | 🌡️ | ✋ | | |
-| Jinn	| 💡 | | | 🌡️ | ✋ | | |	
-| Mare	| | 🔮 | 🔊 | | | 🖊️ | |
-| Moroi		| | | 🔊 | 🌡️ | | 🖊️ | |
-| Myling	| 💡 | | | | ✋ | 🖊️ | |
-| Obake	| 💡 | 🔮 | | | ✋ | | |
-| Oni	| 💡 | | | 🌡️ | | | 👻 |
-| Onryo	| | 🔮 | 🔊 | 🌡️ | | | |	
-| Phantom	| | | 🔊 | | ✋ | | 👻 |
-| Poltergeist	| | | 🔊 | | ✋ | 🖊️ | |
-| Raiju	| 💡 | 🔮 | | | | | 👻 |
-| Revenant	| | 🔮 | | 🌡️ | | 🖊️ | |
-| Shade	| 💡 | | | 🌡️ | | 🖊️ | |
-| Spirit	| 💡 | | 🔊 | | | 🖊️ | |
-| Thaye	| | 🔮 | | | | 🖊️ | 👻 |
-| The Mimic		| | | 🔊 | 🌡️ | ✋ | | |
-| The Twins	| 💡 | | 🔊 | 🌡️ | | | |
-| Wraith	| 💡 | | 🔊 | | | | 👻 |
-| Yokai	| | 🔮 | 🔊 | | | | 👻 |
-| Yurei	| | 🔮 | | 🌡️ | | | 👻 |
 
 ---
 
 # Interactions
-**Hunting at High Sanity**
-
-Mare, Yokai, Onryo, Thaye and Demon can hunt above 50%. 
-
-* Mares can hunt at 60% if player is in a room where no lights are on. 
-
-* Yokai can hunt at 80% if a player speaks near it. 
-
-* Onryi can hunt naturally at 60% and can hunt regardless of sanity after blowing out a candle three times. 
-
-* Demon hunts at 70% naturally and has a chance to hunt at 100%.
-
-Moroi can seem like its hunting early because it drains sanity so fast. 
-
-**Won't Hunt**
-
-Shade, Mare, Deogen, Thaye
-
-The Shade can only hunt at 35%. The Mare can't hunt until 40% if the lights are on. 
-
-**Fast Hunt Speed**
-
-Jinn and Revenant both speed up when they see a player during a hunt. You can tell the difference because Revenant will move noticably slower when it doesn't know where the player is. Jinn also only speeds up when it sees the player whilw the breaker is on.  
-
-Hantu moves faster in colder temps, such as in the ghost room, or outdoors while its snowing. However Hantu will not speed up when it has LoS of player and will stay the same speed if in a warm room. 
-
-Deogen
-
-Thaye
-
-**Teleporting/Unpredictable Movements**
-
-Banshee, Wraith, and Phantom have teleporting-like abilities. If you are using an EMF reader and suddenly get signals with no clear source, it may be one of these three. 
-
-**Fuse Box**
-
-* When the ghost turns off the fuse box this does not automatically set all the lights to off. If breaker goes off, and when you turn it back on all the lights come back on as before, then it was a ghost. If the lights all stay off after the fuse box is back on, then it was popped for having on too many lights. 
-
-* Hantu will never turn the breaker on and has a much higher chance to turn it off. 
-
-* Jinn will never turn the breaker off, and leaves an EMF signal at the breaker when using its ability. 
-
-* Mare has no higher chance of interacting with the breaker than any other ghost. 
-
-**Very little activity/No clear abilities**
-
-Yurei's abilities are very ambiguous. Hard to rule out or identify without evidence. 
-
-Shades are less active overall and typically will not be active around players. Check activity board for higher activity when players are outside the house. 
-
-Goryo's evidence can be hard to get. Lack of clear evidence or distinct abilities may indicate a Goryo.
-
-**Lights popping**
-
-**Airball events**
-
-**Doesn't speed up in LoS**
-Thaye, Hantu
-
-Ghost is staying very close to ghost room.
-
-Ghost is going very far from ghost room.
-
-Ghost is frequently changing rooms. 
-
-Standing still during ghost events. 
-
-Taking a form frequently during ghost event.
-
-Turning lights on frequently.
-
-Turning lights off frequently.
-
-Hitting the fuse box often.
-
 
 
 
@@ -1061,7 +856,7 @@ Active drains
 
 
 
-Using the spirit box requires on-site lights in the favourite room light to be turned off, but not player-brought equipment light. The ghost will still give responses even with flashlights on or if there are candles burning in the room. This also applies for lights in adjacent rooms; the Spirit Box will still work even if doors are open or the "room" is not separated by a physical wall (such as the kitchen and the dining room on Bleasdale Farmhouse). 
+
 
 
 Depending on the ambient weather, using a thermometer can be useful in locating the ghost. Ghosts lower the temperature of the room that they are currently in to a certain point, regardless of whether they are inside or outside.
