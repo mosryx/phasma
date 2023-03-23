@@ -4,17 +4,7 @@
 
 * Each ghost in a contract has a unique identity including type, gender, name, age, length of death, shyness, and physical model.
 
-* Ghost behavior, movement speed, hunting patterns, and activity are mostly based on the type of ghost, except for its response to the Spirit Box, which is randomly set.
-
 * The ghost will spawn in a favorite room after an exit door is opened for the first time. If the exit door is not unlocked, the ghost cannot interact, initiate ghost events or hunts, but can still provide certain evidence.
-
-* Ghosts can stand still, roam, interact with objects and doors, initiate ghost events or hunts, and use abilities.
-
-* Ghosts cannot leave the investigation area, and cannot walk out of the exit doors.
-
-* Ghosts can throw objects, manipulate doors, make Dirty Water appear in sinks, and present themselves in any form, but certain ghosts are more likely to exhibit certain behaviors or have unique abilities.
-
-* Ghosts are usually invisible, appearing during ghost events and hunts.
 
 * Electronic equipment malfunctions within a 10-meter radius during manifestations and hunts.
 
@@ -22,10 +12,7 @@
 
 * Ghosts lower the temperature of the room they are occupying to a certain point. Ghosts with Freezing Temperatures as evidence cool the room to −12°C to −6°C (12°F to 18°F); those without freezing temperatures cool the room to different temperatures depending on the weather.
 
-
 ## Interactions
-
-* Ghost events and hunts do not count as interactions, but ghosts can interact with the environment during both.
 
 * Ghosts can interact with handheld objects, doors, windows, and switches, emitting an EMF 2 or 3 reading for 20 seconds, with a 25% chance of EMF 5 if the ghost has EMF Level 5 evidence.
 
@@ -48,13 +35,7 @@
 
 * When a player is within 10 meters of the ghost in the investigation area, the ghost may randomly trigger a ghost event that creates an EMF 4 reading.
 
-* Certain activities, such as those during a hunt, dimming of lights, and candle burnouts, are not considered ghost events.
-
-* Ghost events can be triggered by drawing The Devil card from a deck of Tarot Cards.
-
 ## Sanity
-
-* Individual sanity fluctuates by up to ±2%, and displayed average sanity fluctuates by up to ±2% times the number of players.
 
 * Lower average sanity increases the frequency of ghost events, hunts, and flickering lights.
 
@@ -66,7 +47,6 @@
 
 * Some maps have a lower "native lighting level," making lights less effective in preventing passive sanity drain.
 
-* When a player dies, all other living players lose 15% sanity.
 
 
 ## Ghost Hunt

@@ -2,22 +2,13 @@
 
 🌡️ Freezing | ✋ Fingerprints | 🖊️ Writing
 
-## Abilities
-
-
 ## Activity
 
+* The Demon has an interaction range of 5 metres instead of 3.
+
+* The effective range of a crucifix is 5 meters instead of the standard 3 meters.
 
 ## Hunt Behavior
-
-
-## Identification Strategies
-
-
-
-
-
-### Unique Identifiers
 
 * The Demon has a hunt sanity threshold of 70%, instead of the standard 50%. This does not affect and is independent from its hunt ability, although the hunt does not differ in any way.
 
@@ -27,11 +18,7 @@
 
 * Smudging a Demon will prevent hunts for only 60 seconds, as opposed to the standard 90 seconds.
 
-* The Demon has an interaction range of 5 metres instead of 3.
-
-* The effective range of a crucifix is 5 meters instead of the standard 3 meters.
-
-### Strategies
+## Identification Strategies
 
 * Having a lazily placed crucifix burn when the ghost would normally not have used it may indicate a Demon, though ghosts could happen to wander away from their room into the crucifix's range
 
