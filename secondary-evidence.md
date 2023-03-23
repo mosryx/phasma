@@ -3,7 +3,17 @@
 
 
 
+The **Banshee** checks for their target's sanity when trying to initiate a hunt, instead of the team's average sanity. This means that the Banshee can appear to hunt from as early as 87.5% average sanity, depending on the target's sanity and number of other players.
+
+
+
+
 ## Not hunting at low sanity
+
+
+The **Banshee** checks for their target's sanity when trying to initiate a hunt, instead of the team's average sanity. This means that the Banshee can appear to hunt from as low as 12.5% average sanity, depending on the target's sanity and number of other players.
+
+
 
 
 
@@ -34,7 +44,7 @@
 
 ## Unpredictable movements/teleporting around map
 
-
+When the **Banshee** performs a roam, it has a 2/3 chance to roam to its target's location if they are inside the investigation area. These only occur outside of hunts and leaves no EMF reading. 
 
 
 ## No clear abilities or traits
@@ -46,7 +56,12 @@
 
 
 
+
+
+
 ## Ghost is going very far from ghost room.
+
+**Banshees** tend to wander towards their target outside of hunts. If a player is reporting frequent activity or even hunts starting near them and far away from the ghost room they may be a Banshee's target.
 
 
 
@@ -93,13 +108,21 @@
 ## Random EMF readings w/o clear origin
 
 
+The Banshee's ability to roam to its target's location does *not* leave an EMF reading, and cannot produce this effect. 
+
 
 
 ## Strange sounds on spirit box/parabolic mic
 
 
+When a Parabolic Microphone is used, the **Banshee** has a 33% chance of making a unique shriek-like paranormal sound instead of a whisper or footstep.
+
+
+
 
 ## Sanity dropping quickly
+
+The **Banshee** can drop a player's sanity by 15% if the player walks toward it while it performs a signing event.
 
 
 
