@@ -4,35 +4,6 @@
 
 
 
-## Demon	
-
-🌡️ Freezing | ✋ Fingerprints | 🖊️ Writing
-
-### Unique Identifiers
-
-* The Demon has a hunt sanity threshold of 70%, instead of the standard 50%. This does not affect and is independent from its hunt ability, although the hunt does not differ in any way.
-
-* The Demon has an ability that allows it to start a hunt regardless of current average sanity. Crucifixes can block this hunt like any other non-cursed hunt.
-
-* Demons have a minimum cooldown of 20 seconds between hunts, instead of the usual 25 seconds.
-
-* Smudging a Demon will prevent hunts for only 60 seconds, as opposed to the standard 90 seconds.
-
-* The Demon has an interaction range of 5 metres instead of 3.
-
-* The effective range of a crucifix is 5 meters instead of the standard 3 meters.
-
-### Strategies
-
-* Having a lazily placed crucifix burn when the ghost would normally not have used it may indicate a Demon, though ghosts could happen to wander away from their room into the crucifix's range
-
-* A crucifix being used while still on the van wall on 42 Edgefield Road is almost certainly a Demon (usually in the garage)
-
-* A cooldown of less than 25 seconds (excluding hunts caused by cursed possessions) may indicate a Demon.
-
-* A ghost hunting between 60 - 90 seconds after being smudged correctly may indicate a Demon.
-
-    * Note that ghosts do not necessarily hunt after the cooldown is over; having hunts consistently being more than 25 seconds apart do not necessarily eliminate the Demon as a possibility.
 
 ## Deogen
 
@@ -300,58 +271,9 @@ Poltergeists are more likely to throw objects, and have a 100% chance of interac
 
 * **Speed:** Will speed up briefly when in LoS.
 
-# Thaye	
+# 
 
 
-### Unique Identifiers
-
-* The Thaye has an "age" parameter that decreases its general activity. Every 1 to 2 minutes, the Thaye attempts to age; if at least one player is in the same room as the ghost, the Thaye will age, else it will wait another 30 seconds before attempting to age again. The Thaye can age a total of 10 times per contract.
-
-* Thaye will start off at 75% sanity required to hunt. This percentage will go down by 5% every time the Thaye ages until it reached 15% required sanity. 
-
-* The Thaye does not speed up with line-of-sight of a player. 
-
-* Over time, the age given when asked for via the Ouija Board will increase. The Thaye does not have to start from a "young" age human-wise.
-
-### Possible Identifiers
-
-* Thaye will tend to be much more active early on and then gradually become less active as the investigation goes on. 
-
-* The Thaye is more likely to interact with the D.O.T.S Projector and Ghost Writing Book. If the ghost is slow to appear on the D.O.T.S Projector or give Ghost Writing, a Thaye is less likely.
-
-### Strategies
-
-* If the ghost is fast early in the contract, slows down over several hunts as players continue spending time near it, and does not gain speed with line-of-sight, then a Thaye is likely.
-
-* On Nightmare difficulty, obtaining Ghost Writing and D.O.T.S Projector confirms the ghost as a Thaye, since the only other ghost that has these two evidences is the Deogen, which has Spirit Box as a guaranteed evidence.
-
-## Twins	
-
-
-
-### Unique Identifiers
-
-* The Twins are one "real" ghost and one "decoy" ghost. 
-
-* The Twins have a chance of interacting with the environment almost simultaneously; noticing two interactions occuring in very quick succession at two separate locations. 
-
-    * This happening relatively frequently, is a very strong sign of The Twins. However, this may easily go unnoticed if players are strictly focused on investigating in or around the ghost room, as the decoy Twin could possibly be far away from the "main" Twin. Leaving an active EMF reader inside the ghost room while doing something else might potentially help players identify Twins if an interaction is noticed somewhere and the EMF reader is heard going off inside the ghost room at the same time.
-
-* Each Twin has a different moving speed during hunts. The main Twin will be 10% slower than the standard ghost speed while the secondary Twin will be 10% faster. Noticing a subtle change in speed from one hunt to another might be an indicator of The Twins.
-
-* The "main" Twin can provide all three pieces of evidence, while the "decoy" Twin can only give EMF Level 5, and cannot be detected with motion sensors. Noticing multiple disturbances far away from the ghost room but failing to get any response on the Spirit Box or reading any significant temperature drop in the vicinity is a likely indicator of the decoy Twin causing disturbances.
-
-### Possible Identifiers
-
-* Similarly, if there are motion sensors nearby, noticing interactions occuring in the area but without the motion sensor ever being set off is a potential sign that it is the decoy Twin.
-
-* Note that interactions for all ghosts happen in a radius confined to the same floor. This means that any ghost could interact through the wall. Having two interactions at reasonably different times in adjacent rooms does not necessarily indicate that the ghost is The Twins.
-
-* If Twins are suspected, searching around the building for items that have been displaced or thrown on the floor or lights that have been unexpectedly turned on far away from the ghost room might help narrow down the ghost type. Note that this is more useful before the ghost has had the chance to hunt; ghosts can throw objects during hunts, so be careful not to be misled.
-
-* When The Twins attempt to initate a hunt, there is a 50% chance of it to occur at the main Twin, and a 50% chance for it to occur from the decoy Twin. This means that The Twins can hunt while they are far from one another. Noticing a hunt starting unusually far away from the ghost room or multiple hunts each occuring in vastly different locations might be a sign of The Twins.
-
-* Crucifixes will only check for the main Twin when blocking hunts, regardless of which location the ghost is attempting to hunt from.
 
 ## Wraith	
 

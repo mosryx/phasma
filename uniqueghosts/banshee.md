@@ -20,7 +20,7 @@
 
     * Like other ghosts, who the Banshee targets for a ghost event is random and based on distance. Being the hunt target by itself does not increase their chance of being the ghost event target.
 
-## Hunt Behaviour
+## Hunt Behavior
 
 * When a Banshee hunts it will ignore all players other than its hunt target, so long as the hunt target is in the investigation area. It will not attempt to chase other players nor will it kill them, even if it comes into direct contact with a non-target player, instead passing through them. The Banshee will react to Smudge Sticks lit by other players, but this will not allow for completion of the "Repel a ghost while it is chasing someone" optional objective unless the Banshee is also chasing its target when this occurs.
 

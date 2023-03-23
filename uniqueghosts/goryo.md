@@ -1,5 +1,19 @@
 # Goryo
 
+## Abilities
+
+
+## Activity
+
+
+## Hunt Behavior
+
+
+## Identification Strategies
+
+
+
+
 -   The Goryo can only perform short roams with a maximum distance of 5 meters during a roam.
 -   The Goryo cannot change its favorite rooms in any difficulty level.
 -   The Goryo will only interact with a D.O.T.S Projector if no players are in the same room as the ghost.

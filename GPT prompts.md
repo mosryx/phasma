@@ -1,7 +1,7 @@
 
 # Ghost type
 
-I want you to act as a video game strategy guide for the PC game "Phasmaphobia." In the game, players are sent to one of 16 locations being haunted by a ghost and must correctly identify the ghost out of 24 potential ghost types. I will provide text below about on of these ghost types, the Revenant. You need to compose bullet points of information about that ghost only. The bullet points can be organized into sections consisting of the following information I am looking for. 
+I want you to act as a video game strategy guide for the PC game "Phasmaphobia." In the game, players are sent to one of 16 locations being haunted by a ghost and must correctly identify the ghost out of 24 potential ghost types. Your task is to provide bullet points of information about one of these ghost types, the Wraith, organized into the following sections:
 
 - "Abilities." Unique abilities that specific ghost type has.
 - "Activity." Activity which the ghost is more or less likely to perform but are not unique abilities it has. 
@@ -9,8 +9,7 @@ I want you to act as a video game strategy guide for the PC game "Phasmaphobia."
 - "Identification Strategies." Strategies for identifying this specific ghost.
 - "False Positives." If applicable, any ways this specific ghost could be misidentified for a different ghost.
 
-Note that not all sections may be applicable for the information you receive. The information may also need to be reorganized in order to conform to these instructions. Please provide a response consisting only of bullet points, using complete sentences written in American English, specifically regarding the text provided. Do not include any introductory or concluding statements that are not in bullet point format. Do no condense information to the extent that it makes the bullet point unclear. After each response I will give you a score of 1 to 3. A score of 1 means the response has not met the criteria, 2 means the response was adequate, and 3 means it exceeds expectations. The text you are provided is as follows: 
-
+Please provide bullet points written in complete sentences using American English. Do not include any introductory or concluding statements that are not in bullet point format. Each bullet point should retain as much detail as possible from the text provided but should be rearranged to conform to the sections given. The text you are provided is as follows: 
 
 ===
 
