@@ -64,41 +64,6 @@
 * The Goryo is less likely to wander far distances. If ghost activity seems relatively confined to its room and the immediate vicinity (excluding ghost events and hunts), then it could be a Goryo.
 
 
-
-
-
-
-
-## Mimic	
-
-Fingerprints, Freezing Temperatures, Spirit Box
-
-* The Mimic presents Ghost Orbs as a fourth "evidence." This will always be present even on a 0-evidence difficulty. Conclusively identifying two of The Mimic's main evidences plus Ghost Orbs in Nightmare difficulty confirms that the ghost is The Mimic. On the contrary, if you managed to obtain only one or two (depending on difficulty) of The Mimic's primary evidences and a Ghost Orb, be sure that the ghost doesn't give off another piece of evidence to safely rule out The Mimic.
-
-* The Mimic has the ability to replicate other ghosts' abilities, such as the Obake's six-fingered handprint, or hunting sanity thresholds. This could be used against it if it presents an ability while also showing contradicting evidence (such as leaving a six-fingered handprint but creating freezing temperatures, which the Obake does not provide as evidence).
-
-    * When turning into a Thaye, the Mimic will pick a random age. Inconsistent responses about age from a Thaye, could indicate a Mimic.
-    
-    * The Mimic cannot replicate the Goryo D.O.T.S. ability, because it cannot create D.O.T.S.
-
-
-* The Mimic will occasionally change the ghost it decides to impersonate during the mission. This might betray The Mimic if the player notices the ghost demonstrating two completely different traits (such as noticing the ghost flickering slower like a Phantom during a hunt, when it was not doing so earlier). Note that the Mimic cannot switch ghosts during a hunt.
-
-
-
-# Myling	
-
-### Unique Identifiers
-* Mylings have quieter footsteps and vocalizations than other ghosts during a hunt. 
-
-    * **Test:** Throw any electronic equipment on the ground next to the player and listen; if ghost sounds (excluding item/door touches) can only be heard within the range that electronics begin to flicker (about 10 meters), then the ghost may be a Myling. 
-    * This test only applies when the ghost is on the same floor as the player. This test is also more favorable with a fair quality audio setup.
-
-### Possible Identifiers
-* Mylings have a higher chance to make sounds on Parabolic Mic, such as murmuring or growling. Evidence can be ambiguous though, so may be unreliable. 
-
-
-
 ## Obake
 ### Unique Identifiers
 * Will always give ✋Fingerprints.
@@ -205,6 +170,8 @@ Poltergeists are more likely to throw objects, and have a 100% chance of interac
 * **Required Sanity:** Standard
 
 * **Speed:** Standard
+
+
 # Raiju	
 ### Unique Identifiers
 * If the Raiju is within 6-10 metres (depending on map size) of any active electronic equipment, its speed will be fixed to 2.5 m/s. Having a ghost that is moving quickly in the presence of electronics and even while not chasing someone may indicate that the ghost is a Raiju.

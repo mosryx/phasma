@@ -1,3 +1,113 @@
+
+## Hunting at high sanity
+
+
+
+## Not hunting at low sanity
+
+
+
+## Very active
+
+
+
+## Low activity
+
+
+
+## Fast hunt speed
+
+
+
+## Slow hunt speed
+
+
+
+## Doesn't accelerate in LoS
+
+
+
+## Erratic hunt speeds
+
+
+
+
+## Unpredictable movements/teleporting around map
+
+
+
+
+## No clear abilities or traits
+
+
+
+
+## Ghost is staying very close to ghost room.
+
+
+
+## Ghost is going very far from ghost room.
+
+
+
+## Ghost is frequently changing rooms. 
+
+
+
+## Standing still during ghost events. 
+
+
+
+## Taking a form frequently during ghost event.
+
+
+
+## Turning lights on frequently.
+
+
+
+## Turning lights off frequently.
+
+
+
+## Hitting the fuse box often.
+
+
+
+## Lights popping
+
+
+
+## Airball events
+
+
+
+## Mostly invisible during hunt/long blinks
+
+
+
+## Mostly visible during hunt/short blinks
+
+
+
+## Random EMF readings w/o clear origin
+
+
+
+
+## Strange sounds on spirit box/parabolic mic
+
+
+
+## Sanity dropping quickly
+
+
+
+
+
+
+===
+
 **Hunting at High Sanity**
 
 Mare, Yokai, Onryo, Thaye and Demon can hunt above 50%. 
@@ -28,6 +138,8 @@ Deogen
 
 Thaye
 
+Moroi
+
 **Teleporting/Unpredictable Movements**
 
 Banshee, Wraith, and Phantom have teleporting-like abilities. If you are using an EMF reader and suddenly get signals with no clear source, it may be one of these three. 
@@ -42,6 +154,8 @@ Banshee, Wraith, and Phantom have teleporting-like abilities. If you are using a
 
 * Mare has no higher chance of interacting with the breaker than any other ghost. 
 
+
+
 **Very little activity/No clear abilities**
 
 Yurei's abilities are very ambiguous. Hard to rule out or identify without evidence. 
@@ -50,26 +164,8 @@ Shades are less active overall and typically will not be active around players. 
 
 Goryo's evidence can be hard to get. Lack of clear evidence or distinct abilities may indicate a Goryo.
 
-**Lights popping**
-
-**Airball events**
 
 **Doesn't speed up in LoS**
 Thaye, Hantu
 
-Ghost is staying very close to ghost room.
-
-Ghost is going very far from ghost room.
-
-Ghost is frequently changing rooms. 
-
-Standing still during ghost events. 
-
-Taking a form frequently during ghost event.
-
-Turning lights on frequently.
-
-Turning lights off frequently.
-
-Hitting the fuse box often.
 

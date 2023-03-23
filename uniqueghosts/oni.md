@@ -20,6 +20,3 @@ Identification Strategies:
 -   Rule out if the ghost performs a "ghost mist" event, but note that it can still hiss as part of a manifestation event
 -   May readily give up evidence to players, leading to generous and swift investigations
 
-False Positives:
-
--   None mentioned in the provided text.
