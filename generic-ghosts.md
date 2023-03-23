@@ -52,7 +52,6 @@
 
 * Ghost events can be triggered by drawing The Devil card from a deck of Tarot Cards.
 
-
 ## Sanity
 
 * Individual sanity fluctuates by up to ±2%, and displayed average sanity fluctuates by up to ±2% times the number of players.
