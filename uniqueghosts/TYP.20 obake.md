@@ -1,5 +1,7 @@
 # Obake
 
+💡 EMF 5 | 🔮 Ghost Orb | ✋ Fingerprints
+
 ## Abilities
 
 -   The Obake ghost has a 75% chance of leaving fingerprints when it interacts with a valid surface, but this chance is not always guaranteed.

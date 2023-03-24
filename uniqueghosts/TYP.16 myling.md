@@ -1,5 +1,7 @@
 # Myling
 
+💡 EMF 5 | ✋ Fingerprints | 🖊️ Writing
+
 -   Abilities:
 
 -   The Myling produces paranormal sounds more frequently than other ghosts, and these sounds can only be heard through a Parabolic Microphone.

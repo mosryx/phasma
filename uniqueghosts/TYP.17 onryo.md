@@ -1,5 +1,7 @@
 # Onryo
 
+🔮 Ghost Orb | 🔊 Spirit Box | 🌡️ Freezing
+
 Abilities:
 
 -   Onryo frequently blows out sources of flame (lit candle, lighter, or campfire) more than other ghosts.
@@ -30,3 +32,24 @@ Identification Strategies:
 False Positives:
 
 -   None mentioned.
+
+
+## Onryo	
+### Unique Identifiers
+* Flames act like crucifix for Onryo (candles, lighter, Maple Lodge Campsite campfire). If Onryo tries to hunt with a flame source nearby, it will blow out the flame instead. 
+
+* If Onryo tried to hunt with both a flame and a crucifix nearby, it will always favor blowing out flame. 
+
+  * **Test:** Place a crucifix down, and having multiple lit candles in close proximity; if the candles repeatedly go out without the ghost ever hunting nor the crucifix ever burning, even at low average sanity, the ghost may be an Onryo. On the other hand, if the crucifix burns without any nearby candle being extinguished, the ghost is not an Onryo.
+
+### Possible Identifiers
+* The Onryo has a 60% hunt sanity threshold.
+
+* Every third candle that the Onryo blows out will also cause it to hunt. This ability will trigger a hubt at any sanity. At high sanity, if the ghost hunts within a few seconds after blowing out your candle, then it could be an Onryo.
+
+* Mimic can sometimes be mistaken for Onryo. Get fingerprints to rule out a Mimic.
+
+### Ghost Hunt Conditions
+* **Required Sanity:** 60% naturally; Blowing out three candles in a row will trigger a hunt; chance of hunt after blowing out candle goes up for each player who has died.
+
+* **Speed:** Standard

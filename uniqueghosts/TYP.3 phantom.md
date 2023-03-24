@@ -1,5 +1,7 @@
 # Phantom
 
+🔊 Spirit Box | ✋ Fingerprints | 👻 D.O.T.S
+
 Abilities:
 
 -   If a successful photo is taken of a Phantom, the ghost will be invisible in the photo and the photo will not contain any interference.
@@ -28,3 +30,27 @@ False Positives:
 
 -   Desync may cause the same effect as taking a photo of a Phantom during a ghost event, even if the ghost is not a Phantom.
 -   The Ouija Board has no relation to the Phantom's ability to wander.
+
+## Phantom	
+
+### Unique Identifiers
+
+* Taking a photo of a Phantom will make it temporarily disappear for that specific instance that it appears. 
+
+    * This will not stop a manifestation nor a hunt if one is already in progress. In a ghost event, if the ghost disappeared as the picture was taken but his footsteps and vocalizations can still be heard, it means that it is a Phantom.
+
+    * **Test:** The ghost's physical image will not be visible in the picture found in the journal, but will be labelled as a "Ghost" picture. Additionally, the image will appear without any electronic interference. However, any ghost can have the same effect if the photo is taken right at the end of a ghost event; be sure that the ghost event is still ongoing even when the ghost has disappeared.
+
+* During a hunt, a Phantom will flash visible every 1 to 2 seconds as opposed to every 0.3 to 1 seconds for other ghosts. 
+
+    * **Test:** Watch for the ghost's flickering rate; if it is invisible for longer periods of time, it is a Phantom.
+
+### Ghost Hunt Conditions
+* **Required Sanity:** Standard
+
+* **Speed:** Standard
+
+### Possible Identifiers
+* The Phantom has an ability similar to the Wraith's, which it can use (not during a manifestation) to walk to a random player's location regardless of distance. After this, the Phantom will continue normal activity. This is more useful on large maps; if the ghost interacts or hunts near a player who is very far from the ghost room, it could be a Phantom.
+
+* Despite what the journal states, the Phantom does not drain sanity perceptibly quicker than other ghosts.

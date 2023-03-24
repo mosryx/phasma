@@ -1,5 +1,7 @@
 # The Mimic
 
+🔊 Spirit Box | 🌡️ Freezing | ✋ Fingerprints
+
 Abilities:
 
 -   The Mimic can imitate any type of ghost and copy its features and abilities, including interaction and ghost event rates, hunt thresholds, and hunt movement speeds.

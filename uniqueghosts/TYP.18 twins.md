@@ -1,5 +1,7 @@
 # The Twins
 
+💡 EMF 5 | 🔊 Spirit Box | 🌡️ Freezing
+
 Abilities:
 
 -   The Twins are one "real" ghost and one "decoy" ghost that can interact with the environment almost simultaneously.

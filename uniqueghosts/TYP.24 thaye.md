@@ -1,5 +1,7 @@
 # Thaye	
 
+🔮 Ghost Orb | 🖊️ Writing | 👻 D.O.T.S
+
 ## Abilities
 
 * The Thaye has an "age" parameter that decreases its general activity. Every 1 to 2 minutes, the Thaye attempts to age; if at least one player is in the same room as the ghost, the Thaye will age, else it will wait another 30 seconds before attempting to age again. The Thaye can age a total of 10 times per contract.

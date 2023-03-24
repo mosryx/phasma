@@ -1,5 +1,7 @@
 # Raiju
 
+💡 EMF 5 | 🔮 Ghost Orb | 👻 D.O.T.S
+
 Activity:
 
 -   The Raiju can interfere with electronics up to 15 metres away on the same floor during a ghost event or hunt.
@@ -24,3 +26,15 @@ Identification Strategies:
 
 -   Can be identified by its speed during a hunt, particularly on small maps, when active electronic items are nearby. If the ghost continues to walk very quickly when roaming (and not chasing particular players), then it is most likely a Raiju.
 
+# Raiju	
+### Unique Identifiers
+* If the Raiju is within 6-10 metres (depending on map size) of any active electronic equipment, its speed will be fixed to 2.5 m/s. Having a ghost that is moving quickly in the presence of electronics and even while not chasing someone may indicate that the ghost is a Raiju.
+
+
+* During ghost events and hunts, the Raiju will interfere with electronics up to 15 metres away, compared to 10 metres for every other ghost. This distance only applies to electronics that are on the same floor as the ghost.
+
+
+* On difficulties with 2 evidence (e.g. Nightmare), obtaining EMF Level 5 and Ghost Orbs confirms the ghost to be a Raiju, since the only other ghost that has these two evidences is the Obake, which has Fingerprints as a guaranteed evidence.
+
+### Possible Identifiers
+* *Sanity:* Raijus can hunt from an average sanity of 65% if there are active electronics near it.

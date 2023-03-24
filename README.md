@@ -1,50 +1,54 @@
-# Generic Ghost
+# GEN.0 Generic Ghost
 
-# UG.0 Unique Ghosts
 
-## UG. [Banshee]()
 
-## UG.2 [Demon](https://github.com/mosryx/phasma/blob/main/guidebook.md#demon)
 
-## UG. [Deogen]()
+# TYP.0 Ghost Types
 
-## UG. [Goryo]()
+## TYP.1 [Spirit]()
 
-## UG. [Hantu]()
+## TYP.2 [Wraith]()
 
-## UG. [Jinn]()
+## TYP.3 [Phantom]()
 
-## UG. [Mare]()
+## TYP.4 [Poltergeist]()
 
-## UG. [Moroi]()
+## TYP.5 [Banshee]()
 
-## UG. [Myling]()
+## TYP.6 [Jinn]()
 
-## UG. [Obake]()
+## TYP.7 [Mare]()
 
-## UG. [Oni]()
+## TYP.8 [Revenant]()
 
-## UG. [Onryo]()
+## TYP.9 [Shade]()
 
-## UG. [Poltergeist]()
+## TYP.10 [Demon](https://github.com/mosryx/phasma/blob/main/guidebook.md#demon)
 
-## UG. [Raiju]()
+## TYP.11 [Yurei]()
 
-## UG. [Revenant]()
+## TYP.12 [Oni]()
 
-## UG. [Shade]()
+## TYP.13 [Yokai]()
 
-## UG. [Spirit]()
+## TYP.14 [Hantu]()
 
-## UG. [Thaye]()
+## TYP.15 [Goryo]()
 
-## UG. [The Mimic]()
+## TYP.16 [Myling]()
 
-## UG. [The Twins]()
+## TYP.17 [Onryo]()
 
-## UG. [Wraith]()
+## TYP.18 [The Twins]()
 
-## UG. [Yokai]()
+## TYP.19 [Raiju]()
 
-## UG. [Yurei]()
+## TYP.20 [Obake]()
 
+## TYP.21 [The Mimic]()
+
+## TYP.22 [Moroi]()
+
+## TYP.23 [Deogen]()
+
+## TYP.24 [Thaye]()

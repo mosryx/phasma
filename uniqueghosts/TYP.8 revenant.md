@@ -1,5 +1,7 @@
 # Revenant
 
+🔮 Ghost Orb | 🌡️ Freezing | 🖊️ Writing
+
 Abilities:
 
 -   Revenants have a noticeable speed change between roaming and chasing modes.
@@ -26,3 +28,21 @@ Identification Strategies:
 False Positives:
 
 -   None provided.
+
+
+# Revenant	
+### Unique Identifiers
+* Revenant will move noticably slower if it doesn't know the players location. If it knows the players location or can see the player, its speed will significantly increase. 
+
+    * If player breaks LoS with Revenant, it will continue moving fast until it reaches the players last known location. If it doesn't see the player when it reaches their last known location, it will start to slow down again. 
+
+    * Revenant will be able to detect you instantly if your flashlight is on or you speak. 
+
+    * You can outrun a Revenant while sprinting but not walking. 
+
+* You can tell a Revenant and Jinn apart because when the hunt begins, if out of LoS, a Revenant will move very slowly while a Jinn will be normal speed. 
+
+### Ghost Hunt Conditions
+* **Required Sanity:** Standard
+
+* **Speed:** Very fast when it knowns the players location; very slow if it doesn't.

@@ -1,5 +1,7 @@
 # Spirit
 
+💡 EMF 5 | 🔊 Spirit Box | 🖊️ Writing
+
 Abilities:
 
 -   Spirits have no special abilities or unique behaviors compared to other ghosts.
@@ -23,3 +25,17 @@ False Positives:
 -   Spirits have no unique defining traits that can easily differentiate them from other ghosts.
 -   Without clear evidence, a Spirit can be easily mistaken for another type of ghost.
 -   Although the journal describes Spirits as the most common ghost, all ghost types have an equal chance of being selected by the game.
+
+
+
+# Spirit	
+### Unique Identifiers
+* When smudged, spirits will not hunt for 180 seconds, as opposed to the standard 90 seconds. 
+
+    * **Test:** When testing for a Spirit, ensure that your average sanity is below 50% by reading it off the sanity monitor, or checking that it has hunted (or attempted to hunt) at least once. Then, smudge the ghost and count for 180 seconds. If the ghost hunts within 90 to 180 seconds, then it is not a Spirit. If it only hunts after the 180 seconds are up, then it is likely a Spirit. 
+    * To ensure that the smudge does not fail (causing the ghost to hunt much earlier than 90 seconds), wait for it to first use the crucifix, interact with an object, or use a motion sensor to locate it, then smudge the surrounding area.
+
+### Ghost Hunt Conditions
+* **Required Sanity:** Standard
+
+* **Speed:** Will speed up briefly when in LoS.
