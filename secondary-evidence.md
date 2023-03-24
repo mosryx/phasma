@@ -46,10 +46,12 @@ The **Banshee** checks for their target's sanity when trying to initiate a hunt,
 
 When the **Banshee** performs a roam, it has a 2/3 chance to roam to its target's location if they are inside the investigation area. These only occur outside of hunts and leaves no EMF reading. 
 
+The **Phantom** has an ability where it will choose a random player and travel to their location, creating an EMF Level 2 reading where it started its walk.
+
 
 ## No clear abilities or traits
 
-
+The **Spirit** has almost no unique traits. It is a generic ghost except that when smudged it cannot hunt for 180 seconds instead of 90 seconds.
 
 
 ## Ghost is staying very close to ghost room.
@@ -99,6 +101,7 @@ When the **Banshee** performs a roam, it has a 2/3 chance to roam to its target'
 
 ## Mostly invisible during hunt/long blinks
 
+* The **Phantom** will flash visible every 1 to 2 seconds as opposed to every 0.3 to 1 seconds for other ghosts. 
 
 
 ## Mostly visible during hunt/short blinks
