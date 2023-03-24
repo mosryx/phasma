@@ -101,7 +101,7 @@ The **Spirit** has almost no unique traits. It is a generic ghost except that wh
 
 ## Mostly invisible during hunt/long blinks
 
-* The **Phantom** will flash visible every 1 to 2 seconds as opposed to every 0.3 to 1 seconds for other ghosts. 
+The **Phantom** will flash visible every 1 to 2 seconds as opposed to every 0.3 to 1 seconds for other ghosts. 
 
 
 ## Mostly visible during hunt/short blinks
@@ -110,10 +110,9 @@ The **Spirit** has almost no unique traits. It is a generic ghost except that wh
 
 ## Random EMF readings w/o clear origin
 
+The Banshee's ability to roam to its target's location does *not* leave an EMF reading, and **cannot** produce this effect. 
 
-The Banshee's ability to roam to its target's location does *not* leave an EMF reading, and cannot produce this effect. 
-
-
+The **Phantom** has an ability where it will choose a random player and travel to their location, creating an EMF Level 2 reading where it started its walk.
 
 ## Strange sounds on spirit box/parabolic mic
 
@@ -127,7 +126,7 @@ When a Parabolic Microphone is used, the **Banshee** has a 33% chance of making 
 
 The **Banshee** can drop a player's sanity by 15% if the player walks toward it while it performs a signing event.
 
-
+Being within 10 meters of a **Phantom** while in pseudo line-of-sight during ghost events and hunts will reduce the player's sanity by 0.5%/s.
 
 
 
