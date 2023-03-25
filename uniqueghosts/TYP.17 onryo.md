@@ -49,7 +49,3 @@ False Positives:
 
 * Mimic can sometimes be mistaken for Onryo. Get fingerprints to rule out a Mimic.
 
-### Ghost Hunt Conditions
-* **Required Sanity:** 60% naturally; Blowing out three candles in a row will trigger a hunt; chance of hunt after blowing out candle goes up for each player who has died.
-
-* **Speed:** Standard

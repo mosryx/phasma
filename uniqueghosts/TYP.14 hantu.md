@@ -2,21 +2,25 @@
 
 🔮 Ghost Orb | 🌡️ Freezing | ✋ Fingerprints
 
-## Abilities
-
-* Hantu will always give 🌡️Freezing.
-
-* Hantu moves faster in colder temperatures. 
-
-    * Hantu will move faster if the breaker is off than when its on, faster in outdoor maps when its snowing than inside, and faster in the ghost room than the rest of the house when the breaker is on.
-
-* The Hantu will never turn on the fuse box. 
-
 ## Activity
 
-* The Hantu is twice as likely to turn off the fuse box relative to other ghosts.
+* Hantu will always give 🌡️Freezing
+
+* The Hantu is twice as likely to turn off the fuse box relative to other ghosts. The Hantu will never turn on the fuse box.
 
 ## Hunt Behaviour
+
+* Hantu moves faster in colder temperatures during a hunt. Temperatures will typically be lower when the breaker is off than when its on, in outdoor maps when its snowing, and the ghost room will typically be colder than the rest of the house when the breaker is on.
+
+| Room temperature | Ghost speed (m/s) | 
+|------------------|------------------| 
+| > 15°C (59°F) | 1.4 | 
+| 12°C to 15°C (53.6°F to 59°F) | 1.75 | 
+| 9°C to 12°C (48.2°F to 53.6°F) | 2.1 | 
+| 6°C to 9°C (42.8°F to 48.2°F) | 2.3 | 
+| 3°C to 6°C (37.4°F to 42.8°F) | 2.4 | 
+| 0°C to 3°C (32°F to 37.4°F) | 2.5 | 
+| < 0°C (32°F) | 2.7 |
 
 * The Hantu does not have line-of-sight acceleration during hunts.
 

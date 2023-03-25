@@ -1,46 +1,40 @@
 
 ## Hunting at high sanity
 
-
-
 The **Banshee** checks for their target's sanity when trying to initiate a hunt, instead of the team's average sanity. This means that the Banshee can appear to hunt from as early as 87.5% average sanity, depending on the target's sanity and number of other players.
 
+The **Mare** has a hunt sanity threshold of 60% if the lights are off in its current room when it initiates a hunt. This applies even if the fuse box is turned off or broken.
 
+The **Demon** has a hunt sanity threshold of 70%, and has a chance to hunt at any sanity. 
+
+The **Yokai** can hunt at 80% sanity when players are talking within a 2.5-meter range. Otherwise it hunts at the standard threshold.
 
 
 ## Not hunting at low sanity
 
-
 The **Banshee** checks for their target's sanity when trying to initiate a hunt, instead of the team's average sanity. This means that the Banshee can appear to hunt from as low as 12.5% average sanity, depending on the target's sanity and number of other players.
 
+The **Mare** has a hunt sanity threshold of 40% if the lights are on in its current room when it initiates a hunt. This applies even if the fuse box is turned off or broken.
 
 
+## Sanity dropping quickly
 
+The **Banshee** can drop a player's sanity by 15% if the player walks toward it while it performs a signing event.
 
-## Very active
+Being within 10 meters of a **Phantom** while in pseudo line-of-sight during ghost events and hunts will reduce the player's sanity by 0.5%/s.
 
+The **Jinn** has an ability to instantly decrease the sanity of all players in the same room or otherwise within 3 metres by 25% if the fuse box is on. This will give an EMF reading at the fuse box.
 
-
-## Low activity
-
+The **Oni** will drain double the sanity (20%) of other ghosts when colliding with the target player during a ghost event.
 
 
 ## Fast hunt speed
 
+The **Jinn** can move at 2.5 m/s during a hunt if it sees a player until it gets within 3 meters. It can only use this ability if the fuse box is on. If the Jinn gets within 3 meters of the player, doesn't see the player, or if the breaker is off, the Jinn will move at standard ghost speeds. 
 
+The **Revenant** will move at 3 m/s if it knows the players location or can see the player. Otherwise it will move at 1 m/s.
 
-## Slow hunt speed
-
-
-
-## Doesn't accelerate in LoS
-
-
-
-## Erratic hunt speeds
-
-
-
+The **Hantu's** speed during a hunt is tied to tempuratures, moving faster the colder it gets. It's speed can range from 1.4 m/s at the warmest tempuratures, to 2.75 m/s at freezing tempuratures. 
 
 ## Unpredictable movements/teleporting around map
 
@@ -53,17 +47,58 @@ The **Phantom** has an ability where it will choose a random player and travel t
 
 The **Spirit** has almost no unique traits. It is a generic ghost except that when smudged it cannot hunt for 180 seconds instead of 90 seconds.
 
+The **Yurei's** abilities can often appear ambiguous, and be mistaken for normal ghost behavior. Must test specifically for its abilities. 
+
+## Very active
+
+The **Poltergeist** tends to be more active in general, and will tend toward throwing items. 
+
+The **Oni** will be more active on average, interacting with objects more often, especially when there are people in the ghost room.
+
+The **Yokai** will be more active when players are talking while near it. 
 
 ## Ghost is staying very close to ghost room.
 
+The **Mare** will prefer roaming into a dark room rather than lit rooms. If you have lights on in rooms near the ghost room and the ghost is staying in the ghost room with the lights off, then it could be a Mare.
 
-
-
+The **Goryo** can only travel up to 5 meters during a roam, and cannot change its ghost room at any point regardless of difficulty. 
 
 
 ## Ghost is going very far from ghost room.
 
 **Banshees** tend to wander towards their target outside of hunts. If a player is reporting frequent activity or even hunts starting near them and far away from the ghost room they may be a Banshee's target.
+
+The **Mare** will prefer roaming into a dark room rather than lit rooms. If you have lights on in various rooms and the ghost roams away frequently, then it could be a Mare.
+
+
+## Low activity
+
+The **Mare** will have decreased interaction activity if the room it is currently in is lit.
+
+The **Shade** is generally less active than most ghosts. It cannot perform ghost events at all at 100% average sanity, with the success rate increasing as the average goes down. It cannot perform any interactions when it's in the same room as another player (except ghostwriting).
+
+
+
+
+## Slow hunt speed
+
+The **Revenant** will move at 1 m/s if it doesn't know the players location or can't see the player. Otherwise it will move at 3 m/s.
+
+
+## Doesn't accelerate in LoS
+
+The **Jinn** will move at a speed of 2.5 m/s if it has LoS on a player while the fuse box is on during a hunt. However, when it gets within 3 meters of the player, it returns to standard speeds. 
+
+The **Hantu** will not accelerate when it has LoS on the player. However, in cases where the player is looking the Hantu for instance, it may still gain speed, as the room's tempurature changes the longer it is in it. 
+
+## Erratic hunt speeds
+
+The **Jinn** will move at a speed of 2.5 m/s if it has LoS on a player while the fuse box is on during a hunt. However, when it gets within 3 meters of the player, it returns to standard speeds. 
+
+The **Hantu's** speed during a hunt is tied to tempuratures, moving faster the colder it gets. As it moves between colder and warmer areas it's speed may noticably change.
+
+
+
 
 
 
@@ -77,25 +112,31 @@ The **Spirit** has almost no unique traits. It is a generic ghost except that wh
 
 ## Taking a form frequently during ghost event.
 
+The **Oni** prefers to manifest in full form and will never appear as ball of mist during ghost event. It can still perform events that can cause a hiss, such as "fake hunt" type manifestations.
 
+
+## Not taking a form during ghost events/prefers airball events
+
+The **Shade** prefers manifesting as mist during ghost events, and when it does take a form prefers the shadow person form. 
 
 ## Turning lights on frequently.
 
-
+If a ghost turns on a light switch, computer, or TV screen on, then it **cannot** be a Mare.
 
 ## Turning lights off frequently.
 
-
+The **Mare** has a chance of turning off a light source immediately if a player turns one on in the vicinity. It also is unable to turn a light switch on. 
 
 ## Hitting the fuse box often.
 
+If the ghost is turning off the fuse box frequently, then it likely is **not** a Jinn.
+
+A **Hantu** is twice as likely as other ghosts to turn off the breaker. It is unable to turn the breaker on. 
 
 
-## Lights popping
+## Lights shattering ghost events
 
-
-
-## Airball events
+The **Mare** is more likely to perform light-shattering ghost events. Whether the lights are turned on or off do not affect the Mare's chance of performing this event.
 
 
 
@@ -106,6 +147,7 @@ The **Phantom** will flash visible every 1 to 2 seconds as opposed to every 0.3 
 
 ## Mostly visible during hunt/short blinks
 
+The **Oni** will flash visible for longer than most other ghosts during a hunt.
 
 
 ## Random EMF readings w/o clear origin
@@ -119,14 +161,7 @@ The **Phantom** has an ability where it will choose a random player and travel t
 
 When a Parabolic Microphone is used, the **Banshee** has a 33% chance of making a unique shriek-like paranormal sound instead of a whisper or footstep.
 
-
-
-
-## Sanity dropping quickly
-
-The **Banshee** can drop a player's sanity by 15% if the player walks toward it while it performs a signing event.
-
-Being within 10 meters of a **Phantom** while in pseudo line-of-sight during ghost events and hunts will reduce the player's sanity by 0.5%/s.
+The **Myling** is more likely to produce frequent paranormal sounds, which can be heard through a Parabolic Microphone.
 
 
 
