@@ -22,9 +22,9 @@
 
 -   In rare cases, players can see D.O.T.S. while they are in the same room, indicating that the Goryo only requires no players in the same room with it to interact with the projector. The projector's interaction radius is 7 meters, stretching almost the entire length of 6 Tanglewood Drive, enabling these sorts of scenarios.
 
-* It is necessary to have a Video Camera either placed facing an active D.O.T.S. Projector, or held by a player outside the ghost's room. If D.O.T.S. evidence is visible in the camera's screen, but invisible in direct view, the ghost is likely to be a Goryo. Conversely, if D.O.T.S. is seen without the aid of a video camera, a Goryo can be safely ruled out.
+- It is necessary to have a Video Camera either placed facing an active D.O.T.S. Projector, or held by a player outside the ghost's room. If D.O.T.S. evidence is visible in the camera's screen, but invisible in direct view, the ghost is likely to be a Goryo. Conversely, if D.O.T.S. is seen without the aid of a video camera, a Goryo can be safely ruled out.
 
-* The Goryo is less likely to wander far distances. If ghost activity seems relatively confined to its room and the immediate vicinity (excluding ghost events and hunts), then it could be a Goryo.
+- The Goryo is less likely to wander far distances. If ghost activity seems relatively confined to its room and the immediate vicinity (excluding ghost events and hunts), then it could be a Goryo.
 
 -   The Goryo should not be ruled out simply because it has manifested during ghost events or hunts.
 
