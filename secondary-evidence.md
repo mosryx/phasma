@@ -10,6 +10,8 @@ The **Yokai** can hunt at 80% sanity when players are talking within a 2.5-meter
 
 **Onryo** hunts at 60% sanity, and can hunt at any sanity if it blows out three flames and is not otherwise prevented. 
 
+**Raiju** can hunt at 65% sanity when its within range of electrical equipment. 
+
 ## Not hunting at low sanity
 
 The **Banshee** checks for their target's sanity when trying to initiate a hunt, instead of the team's average sanity. This means that the Banshee can appear to hunt from as low as 12.5% average sanity, depending on the target's sanity and number of other players.
@@ -36,17 +38,31 @@ The **Revenant** will move at 3 m/s if it knows the players location or can see 
 
 The **Hantu's** speed during a hunt is tied to tempuratures, moving faster the colder it gets. It's speed can range from 1.4 m/s at the warmest tempuratures, to 2.75 m/s at freezing tempuratures.
 
+The **Twins** have an increased hunt speed when it initiates a hunt from the location of the "decoy" twin, moving at 1.9 m/s. 
+
+The **Raiju** hunts at a base speed of 2.5 m/s while within range of electrical equipment. It also recieves the LoS bonus when close to a player, which stacks with its base speed bonus if active. 
+
+### Key Terms
+
+- LoS Bonus
+- Initiating a hunt
+- Base Speed
+
 ## Unpredictable movements/teleporting around map
 
 When the **Banshee** performs a roam, it has a 2/3 chance to roam to its target's location if they are inside the investigation area. These only occur outside of hunts and leaves no EMF reading.
 
 The **Phantom** has an ability where it will choose a random player and travel to their location, creating an EMF Level 2 reading where it started its walk.
 
+The **Twins** can interact with objects up to 16 meters away, leaving behind an EMF signature, which on smaller maps can appear like it is teleporting. 
+
 ## No clear abilities or traits
 
 The **Spirit** has almost no unique traits. It is a generic ghost except that when smudged it cannot hunt for 180 seconds instead of 90 seconds.
 
 The **Yurei's** abilities can often appear ambiguous, and be mistaken for normal ghost behavior. Must test specifically for its abilities.
+
+Because **Obake** has a 1/4 chance to leave no fingerprint evidence after an interaction, and due to its ability to reduce the shelf life of all fingerprints on the map by half, its possible players may never find fingerprint evidence at all. If players have trouble finding a final piece of evidence, then Obake may be reason. 
 
 ## Very active
 
@@ -78,6 +94,8 @@ The **Shade** is generally less active than most ghosts. It cannot perform ghost
 
 The **Revenant** will move at 1 m/s if it doesn't know the players location or can't see the player. Otherwise it will move at 3 m/s.
 
+The **Twins** have a decreased hunt speed when it initiates a hunt from the location of the "real" twin, moving at 1.5 m/s. 
+
 ## Doesn't accelerate in LoS
 
 The **Jinn** will move at a speed of 2.5 m/s if it has LoS on a player while the fuse box is on during a hunt. However, when it gets within 3 meters of the player, it returns to standard speeds.
@@ -89,6 +107,10 @@ The **Hantu** will not accelerate when it has LoS on the player. However, in cas
 The **Jinn** will move at a speed of 2.5 m/s if it has LoS on a player while the fuse box is on during a hunt. However, when it gets within 3 meters of the player, it returns to standard speeds.
 
 The **Hantu's** speed during a hunt is tied to tempuratures, moving faster the colder it gets. As it moves between colder and warmer areas it's speed may noticably change.
+
+The **Twins** hunt speed will vary between hunts depending on where the hunt initiates from, either the location of its "real" twin or its "decoy." 
+
+The **Raiju's** base speed increases to 2.5 m/s when its within range of active electrical equipment. While moving around the investigation area, passing into and out of range of equipment can cause it to sound like it is speeding up and slowing down. 
 
 ## Ghost is frequently changing rooms.
 
@@ -133,6 +155,8 @@ The **Oni** will flash visible for longer than most other ghosts during a hunt.
 The Banshee's ability to roam to its target's location does *not* leave an EMF reading, and **cannot** produce this effect.
 
 The **Phantom** has an ability where it will choose a random player and travel to their location, creating an EMF Level 2 reading where it started its walk.
+
+The **Twins** has a "real" twin and a "decoy" which have an interaction range of 3 meters and 16 meters respectively. While the "real" twin behaves normally, the "decoy" does not set off motion sensors and leaves no evidence except EMF reading (can be as high as EMF 5). 
 
 ## Strange sounds on spirit box/parabolic mic
 
