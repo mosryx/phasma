@@ -2,26 +2,32 @@
 
 🔮 Ghost Orb | 🔊 Spirit Box | 🌡️ Freezing
 
-Abilities:
+## Abilities
+
+* Flames act like crucifix for Onryo (candles, lighter, Maple Lodge Campsite campfire). If Onryo tries to hunt with a flame source nearby, it will blow out the flame instead. 
 
 -   Onryo frequently blows out sources of flame (lit candle, lighter, or campfire) more than other ghosts.
+
 -   Every third flame that the Onryo blows out will cause it to attempt to initiate a hunt, regardless of current average sanity.
+
 -   Flames can prevent or cause a hunt. If the Onryo attempts a hunt within 4 meters of any type of flame, it will blow out the flame instead, and the hunt will fail. However, if a flame is blown out during a hunt, it will count towards the three-flame rule.
+
 -   Onryo has a hunt sanity threshold of 60%, which is higher than the standard 50% baseline.
+
 -   Flames do not make the Onryo more likely to leave a room.
 
-Activity:
+## Activity
 
 -   Onryo can blow out multiple flames in quick succession, increasing the risk of a hunt.
 -   In Sunny Meadows, several lit candles can be found in the chapel, which ghosts can blow out. If the ghost is located there and hunts very early (and is otherwise not a Demon), then it may be an Onryo.
 
-Hunt Behavior:
+## Hunt Behavior
 
 -   Onryo's hunt behavior can be prevented by normal prevention methods (e.g., a crucifix) or another flame.
 -   There can be a delay of up to ~6 seconds before the hunt actually initiates.
 -   If both a crucifix and a flame are within range, the flame will take priority over the crucifix for preventing the hunt.
 
-Identification Strategies:
+## Identification Strategies
 
 -   Place one crucifix in the ghost's area, then a candle directly on top.
 -   Place two crucifixes in the ghost's area, then multiple candles spread out and covering the crucifixes' ranges.
@@ -36,7 +42,8 @@ False Positives:
 
 ## Onryo	
 ### Unique Identifiers
-* Flames act like crucifix for Onryo (candles, lighter, Maple Lodge Campsite campfire). If Onryo tries to hunt with a flame source nearby, it will blow out the flame instead. 
+
+
 
 * If Onryo tried to hunt with both a flame and a crucifix nearby, it will always favor blowing out flame. 
 
