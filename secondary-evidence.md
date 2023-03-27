@@ -152,7 +152,7 @@ The **Oni** will flash visible for longer than most other ghosts during a hunt.
 
 ## Random EMF readings w/o clear origin
 
-The Banshee's ability to roam to its target's location does *not* leave an EMF reading, and **cannot** produce this effect.
+The *Banshee's* ability to roam to its target's location does *not* leave an EMF reading, and **cannot** produce this effect.
 
 The **Phantom** has an ability where it will choose a random player and travel to their location, creating an EMF Level 2 reading where it started its walk.
 
