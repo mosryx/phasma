@@ -8,7 +8,7 @@
 * [Secondary Evidence](secondary-evidence.md)
 * [uniqueghosts](uniqueghosts/README.md)
   * [Spirit](<uniqueghosts/TYP.1 spirit.md>)
-  * [TYP.10 demon](<uniqueghosts/TYP.10 demon.md>)
+  * [Demon](<uniqueghosts/TYP.10 demon.md>)
   * [Yurei](<uniqueghosts/TYP.11 yurei.md>)
   * [Oni](<uniqueghosts/TYP.12 oni.md>)
   * [Yokai](<uniqueghosts/TYP.13 yokai.md>)

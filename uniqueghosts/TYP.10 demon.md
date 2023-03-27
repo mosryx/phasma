@@ -1,4 +1,4 @@
-# TYP.10 demon
+# Demon
 
 🌡️ Freezing | ✋ Fingerprints | 🖊️ Writing
 
@@ -14,7 +14,7 @@
 * Demons have a minimum cooldown of 20 seconds between hunts, instead of the usual 25 seconds.
 * Smudging a Demon will prevent hunts for only 60 seconds, as opposed to the standard 90 seconds.
 
-<figure><img src="../.gitbook/assets/Demon.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Demon.png" alt=""><figcaption><p>Pictured: The Demon gearing up for a rip-roaring good time. </p></figcaption></figure>
 
 ## Identification Strategies
 
