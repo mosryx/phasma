@@ -2,7 +2,7 @@
 
 💡 EMF 5 | 🔮 Ghost Orb | ✋ Fingerprints
 
-## Activity
+## Unique Traits
 
 -   Obake will always give ✋ Fingerprints. 
 

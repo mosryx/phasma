@@ -2,11 +2,9 @@
 
 💡 EMF 5 | 🔮 Ghost Orb | 👻 D.O.T.S
 
-## Activity
+## Unique Traits
 
 -   The Raiju can interfere with electronics up to 15 metres away on the same floor during a ghost event or hunt.
-
-## Hunt Behavior
 
 -   The Raiju moves at a fixed speed of 2.5 m/s during a hunt when within a certain distance of at least one piece of active electronic equipment. The distance the Raiju needs to be from electronics to recieve this bonus varies based on the size of the map: 6m for small, 8m for medium, and 10m for large maps.
 

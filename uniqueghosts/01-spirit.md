@@ -2,7 +2,7 @@
 
 💡 EMF 5 | 🔊 Spirit Box | 🖊️ Writing
 
-## Abilities
+## Unique Traits
 
 * Spirits have no special abilities or unique behaviors compared to other ghosts.
 
